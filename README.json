@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:28:20Z",
+            "last_commit": "2026-08-15T13:58:04Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15253
+            "stars": 15254
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T16:39:00Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13298
+            "stars": 13300
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-09T18:56:43Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8454
+            "stars": 8455
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-14T15:22:04Z",
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5730
+            "stars": 5731
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T09:55:52Z",
+            "last_commit": "2026-08-15T16:31:56Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab-desktop",
             "stars": 4284
@@ -126,7 +126,7 @@
             "last_commit": "2024-07-26T07:39:39Z",
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3543
+            "stars": 3544
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-09T00:13:47Z",
+            "last_commit": "2026-08-16T00:09:44Z",
             "owner": "tweag",
             "repo": "jupyenv",
             "stars": 744
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T09:58:52Z",
+            "last_commit": "2026-08-15T09:39:55Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 160
@@ -374,7 +374,7 @@
             "last_commit": "2026-08-10T20:57:38Z",
             "owner": "tqdm",
             "repo": "tqdm",
-            "stars": 31282
+            "stars": 31283
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11110
+            "stars": 11111
           }
         },
         {
@@ -413,7 +413,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:09:00Z",
+            "last_commit": "2026-08-16T00:25:47Z",
             "owner": "vega",
             "repo": "altair",
             "stars": 10452
@@ -469,7 +469,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:53:47Z",
+            "last_commit": "2026-08-15T10:54:15Z",
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
             "stars": 3326
@@ -486,7 +486,7 @@
             "last_commit": "2023-11-29T14:26:24Z",
             "owner": "widgetti",
             "repo": "ipyvolume",
-            "stars": 1962
+            "stars": 1963
           }
         },
         {
@@ -772,7 +772,7 @@
             "last_commit": "2026-08-14T10:28:32Z",
             "owner": "mwouts",
             "repo": "itables",
-            "stars": 970
+            "stars": 971
           }
         },
         {
@@ -854,7 +854,7 @@
             "last_commit": "2026-08-11T01:38:21Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7227
+            "stars": 7229
           }
         },
         {
@@ -893,7 +893,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T05:27:46Z",
+            "last_commit": "2026-08-15T09:18:18Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
             "stars": 5302
@@ -1202,7 +1202,7 @@
             "last_commit": "2026-08-14T06:25:33Z",
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
-            "stars": 4371
+            "stars": 4374
           }
         },
         {
@@ -1213,7 +1213,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T14:15:27Z",
+            "last_commit": "2026-08-16T00:11:49Z",
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
@@ -1788,7 +1788,7 @@
             "last_commit": "2026-08-13T19:34:41Z",
             "owner": "posit-dev",
             "repo": "pointblank",
-            "stars": 480
+            "stars": 482
           }
         },
         {
@@ -1996,7 +1996,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15349
+            "stars": 15350
           }
         },
         {
@@ -2093,7 +2093,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:59:40.950Z",
+    "last_updated": "2026-08-16T05:02:44.561Z",
     "original_repository": "markusschanta/awesome-jupyter",
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
     "enhanced_repository": "enhansome/enhansome-jupyter",
