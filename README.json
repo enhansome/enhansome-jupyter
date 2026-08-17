@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T13:58:04Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15254
+            "stars": 15255
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T16:39:00Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13300
+            "stars": 13304
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T18:56:43Z",
+            "last_commit": "2026-08-16T16:36:34Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8455
+            "stars": 8456
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5941
+            "stars": 5940
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-14T15:22:04Z",
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5731
+            "stars": 5733
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:31:56Z",
+            "last_commit": "2026-08-16T19:24:58Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab-desktop",
             "stars": 4284
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-19T05:45:37Z",
             "owner": "nteract",
             "repo": "hydrogen",
-            "stars": 4019
+            "stars": 4017
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-12T21:34:25Z",
             "owner": "Kaggle",
             "repo": "docker-python",
-            "stars": 2729
+            "stars": 2730
           }
         },
         {
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T09:39:55Z",
+            "last_commit": "2026-08-16T22:08:14Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 160
@@ -339,7 +339,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-24T19:49:40Z",
+            "last_commit": "2026-08-16T19:16:35Z",
             "owner": "Kamuyin",
             "repo": "ipygame",
             "stars": 5
@@ -388,7 +388,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15775
+            "stars": 15776
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11111
+            "stars": 11114
           }
         },
         {
@@ -413,10 +413,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:25:47Z",
+            "last_commit": "2026-08-16T17:34:41Z",
             "owner": "vega",
             "repo": "altair",
-            "stars": 10452
+            "stars": 10453
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7810
+            "stars": 7811
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5377
+            "stars": 5376
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2024-01-12T07:28:07Z",
             "owner": "quantopian",
             "repo": "qgrid",
-            "stars": 3087
+            "stars": 3085
           }
         },
         {
@@ -854,7 +854,7 @@
             "last_commit": "2026-08-11T01:38:21Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7229
+            "stars": 7228
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5941
+            "stars": 5940
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2021-10-18T21:21:21Z",
             "owner": "aaren",
             "repo": "notedown",
-            "stars": 860
+            "stars": 859
           }
         },
         {
@@ -1213,7 +1213,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:11:49Z",
+            "last_commit": "2026-08-17T04:13:16Z",
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
@@ -1230,7 +1230,7 @@
             "last_commit": "2026-07-23T05:19:04Z",
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1395
+            "stars": 1396
           }
         },
         {
@@ -1328,7 +1328,7 @@
             "last_commit": "2024-07-25T13:25:21Z",
             "owner": "QuantStack",
             "repo": "jupyterlab-drawio",
-            "stars": 622
+            "stars": 623
           }
         },
         {
@@ -1521,7 +1521,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-09T15:17:13Z",
+            "last_commit": "2026-08-16T14:54:26Z",
             "owner": "timkpaine",
             "repo": "jupyterlab_miami_nights",
             "stars": 131
@@ -1535,7 +1535,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T22:43:20Z",
+            "last_commit": "2026-08-16T15:00:11Z",
             "owner": "timkpaine",
             "repo": "jupyterlab-iframe",
             "stars": 118
@@ -1591,9 +1591,9 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T14:21:56Z",
+            "last_commit": "2026-08-16T15:00:32Z",
             "owner": "timkpaine",
-            "repo": "jupyterlab_autoversion",
+            "repo": "jupyterlab-autoversion",
             "stars": 83
           }
         },
@@ -1605,9 +1605,9 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-09T14:22:53Z",
+            "last_commit": "2026-08-16T14:59:43Z",
             "owner": "timkpaine",
-            "repo": "jupyterlab_commands",
+            "repo": "jupyterlab-commands",
             "stars": 63
           }
         },
@@ -1647,7 +1647,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T20:39:17Z",
+            "last_commit": "2026-08-16T14:59:42Z",
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61
@@ -2038,7 +2038,7 @@
             "last_commit": "2024-10-21T10:10:48Z",
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3009
+            "stars": 3008
           }
         },
         {
@@ -2093,7 +2093,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:02:44.561Z",
+    "last_updated": "2026-08-17T05:18:24.267Z",
     "original_repository": "markusschanta/awesome-jupyter",
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
     "enhanced_repository": "enhansome/enhansome-jupyter",
