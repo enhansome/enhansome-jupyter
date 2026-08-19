@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60374819,
             "language": "TypeScript",
             "last_commit": "2026-08-18T19:02:25Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15257
+            "stars": 15258
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33653601,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T16:43:37Z",
             "owner": "jupyter",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39144867,
             "language": "Python",
             "last_commit": "2026-08-17T11:33:41Z",
             "owner": "jupyter",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20785986,
             "language": "Python",
             "last_commit": "2026-08-14T16:41:51Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8329
+            "stars": 8327
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145574616,
             "language": "Python",
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145848899,
             "language": "Python",
             "last_commit": "2026-08-18T16:26:10Z",
             "owner": "holoviz",
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90307576,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T19:24:58Z",
+            "last_commit": "2026-08-19T09:55:55Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab-desktop",
-            "stars": 4288
+            "stars": 4289
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35395056,
             "language": "TypeScript",
             "last_commit": "2026-07-19T05:45:37Z",
             "owner": "nteract",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188880197,
             "language": "Jupyter Notebook",
             "last_commit": "2024-07-26T07:39:39Z",
             "owner": "ml-tooling",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33904449,
             "language": "Python",
             "last_commit": "2026-08-18T21:12:27Z",
             "owner": "Kaggle",
@@ -150,8 +160,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-19T00:34:03Z",
+            "last_commit": "2026-08-19T11:45:46Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 901
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162268840,
             "language": "Nix",
             "last_commit": "2026-08-16T00:09:44Z",
             "owner": "tweag",
@@ -178,8 +190,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1155631492,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:02:15Z",
+            "last_commit": "2026-08-19T09:39:33Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 160
@@ -189,7 +202,7 @@
       "title": "Runtimes/Frontends"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23984796,
             "language": "Python",
             "last_commit": "2026-08-11T20:18:18Z",
             "owner": "jupyter",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73084481,
             "language": "TypeScript",
             "last_commit": "2026-08-17T22:13:46Z",
             "owner": "lgpage",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25882864,
             "language": "TypeScript",
             "last_commit": "2020-03-27T18:19:56Z",
             "owner": "jupyter",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92329878,
             "language": "Python",
             "last_commit": "2026-08-01T05:02:31Z",
             "owner": "jupyterhub",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377004090,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-05T20:36:52Z",
             "owner": "jmshea",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7551843,
             "language": "Python",
             "last_commit": "2023-10-22T21:24:20Z",
             "owner": "jiffyclub",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116083801,
             "language": "Python",
             "last_commit": "2021-10-21T18:29:45Z",
             "owner": "osteele",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114320111,
             "language": "Python",
             "last_commit": "2026-08-03T21:30:26Z",
             "owner": "jupyterhub",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 253625665,
             "language": "Python",
             "last_commit": "2022-05-05T16:11:57Z",
             "owner": "IllumiChat",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61117223,
             "language": "Python",
             "last_commit": "2024-12-11T17:07:23Z",
             "owner": "parmentelat",
@@ -338,30 +361,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153920855,
             "language": "Python",
             "last_commit": "2026-08-16T19:16:35Z",
             "owner": "Kamuyin",
             "repo": "ipygame",
-            "stars": 5
+            "stars": 6
           }
-        },
-        {
-          "node_type": "item",
-          "title": "jupyter-edx-grader-xblock",
-          "description": "Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "jupyter-viewer-xblock",
-          "description": "Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.",
-          "children": []
         }
       ],
       "title": "Collaboration/Education"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -370,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36804486,
             "language": "Python",
             "last_commit": "2026-08-17T21:24:27Z",
             "owner": "tqdm",
@@ -384,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95067884,
             "language": "Python",
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
@@ -398,11 +412,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109291007,
             "language": "Rust",
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11118
+            "stars": 11119
           }
         },
         {
@@ -412,11 +427,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42757577,
             "language": "Python",
             "last_commit": "2026-08-16T17:34:41Z",
             "owner": "vega",
             "repo": "altair",
-            "stars": 10454
+            "stars": 10455
           }
         },
         {
@@ -426,11 +442,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315977578,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7817
+            "stars": 7819
           }
         },
         {
@@ -440,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232480726,
             "language": "Python",
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
@@ -454,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43191201,
             "language": "TypeScript",
             "last_commit": "2026-05-07T08:33:08Z",
             "owner": "bqplot",
@@ -468,8 +487,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34138622,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:56:18Z",
+            "last_commit": "2026-08-19T07:43:12Z",
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
             "stars": 3326
@@ -482,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77063495,
             "language": "TypeScript",
             "last_commit": "2023-11-29T14:26:24Z",
             "owner": "widgetti",
@@ -496,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19541904,
             "language": "TypeScript",
             "last_commit": "2026-05-07T12:49:17Z",
             "owner": "jupyter-widgets",
@@ -510,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15400194,
             "language": "JavaScript",
             "last_commit": "2024-10-10T15:48:16Z",
             "owner": "jupyter-widgets",
@@ -524,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444969649,
             "language": "Jupyter Notebook",
             "last_commit": "2025-02-26T17:21:53Z",
             "owner": "vizzuhq",
@@ -538,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27371456,
             "language": "Python",
             "last_commit": "2026-04-13T16:49:31Z",
             "owner": "pbugnion",
@@ -552,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121581663,
             "language": "Python",
             "last_commit": "2026-03-10T21:02:03Z",
             "owner": "InsightSoftwareConsortium",
@@ -566,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147895712,
             "language": "Python",
             "last_commit": "2026-06-23T11:53:24Z",
             "owner": "1kbgz",
@@ -580,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238460517,
             "language": "Python",
             "last_commit": "2026-07-06T18:01:22Z",
             "owner": "cytoscape",
@@ -594,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99951895,
             "language": "JavaScript",
             "last_commit": "2024-02-20T10:19:50Z",
             "owner": "maartenbreddels",
@@ -608,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188053613,
             "language": "Python",
             "last_commit": "2026-04-13T17:25:05Z",
             "owner": "krassowski",
@@ -622,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98531561,
             "language": "C++",
             "last_commit": "2026-04-21T10:02:52Z",
             "owner": "jupyter-xeus",
@@ -636,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193933687,
             "language": "Python",
             "last_commit": "2024-08-24T18:05:37Z",
             "owner": "nicohlr",
@@ -650,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148903600,
             "language": "CSS",
             "last_commit": "2026-03-16T13:04:42Z",
             "owner": "jupyter-widgets-contrib",
@@ -664,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127450334,
             "language": "C++",
             "last_commit": "2026-03-06T13:56:06Z",
             "owner": "jupyter-xeus",
@@ -678,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244054123,
             "language": "Python",
             "last_commit": "2026-08-01T21:45:32Z",
             "owner": "timkpaine",
@@ -692,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137387365,
             "language": "Jupyter Notebook",
             "last_commit": "2023-07-12T14:24:16Z",
             "owner": "AaronWatters",
@@ -706,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 86470331,
             "language": "Jupyter Notebook",
             "last_commit": "2017-08-24T19:11:05Z",
             "owner": "bsnacks000",
@@ -720,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132123416,
             "language": "C++",
             "last_commit": "2021-09-19T17:27:57Z",
             "owner": "QuantStack",
@@ -734,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254963872,
             "language": "Python",
             "last_commit": "2020-04-16T17:10:37Z",
             "owner": "sammycdubs",
@@ -745,7 +784,7 @@
       "title": "Visualization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -754,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24624545,
             "language": "Python",
             "last_commit": "2024-01-12T07:28:07Z",
             "owner": "quantopian",
@@ -768,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181572634,
             "language": "Python",
             "last_commit": "2026-08-14T10:28:32Z",
             "owner": "mwouts",
@@ -782,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197740704,
             "language": "TypeScript",
             "last_commit": "2026-01-15T08:07:19Z",
             "owner": "jupyter-widgets",
@@ -796,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96782566,
             "language": "Python",
             "last_commit": "2024-01-04T06:37:51Z",
             "owner": "jupyter-widgets-contrib",
@@ -810,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272550331,
             "language": "JavaScript",
             "last_commit": "2026-08-09T14:22:43Z",
             "owner": "finos",
@@ -824,24 +868,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570117301,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-04T13:04:32Z",
             "owner": "widgetti",
             "repo": "ipyaggrid",
             "stars": 65
           }
-        },
-        {
-          "node_type": "item",
-          "title": "buckaroo",
-          "description": "GUI Data Wrangling tool for Jupyter and pandas.",
-          "children": []
         }
       ],
       "title": "Tables"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -850,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137444487,
             "language": "Python",
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
@@ -864,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96454557,
             "language": "Python",
             "last_commit": "2026-07-06T21:18:39Z",
             "owner": "nteract",
@@ -878,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145574616,
             "language": "Python",
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
@@ -892,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222507066,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T09:18:18Z",
             "owner": "AnswerDotAI",
@@ -906,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440184597,
             "language": "Python",
             "last_commit": "2026-08-11T09:50:22Z",
             "owner": "mljar",
@@ -920,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137292803,
             "language": "TypeScript",
             "last_commit": "2026-08-08T16:10:16Z",
             "owner": "jupyter-book",
@@ -934,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12387090,
             "language": "JavaScript",
             "last_commit": "2023-10-29T13:51:07Z",
             "owner": "damianavila",
@@ -948,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 235190220,
             "language": "Python",
             "last_commit": "2025-05-29T22:02:03Z",
             "owner": "ploomber",
@@ -962,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16920686,
             "language": "Jupyter Notebook",
             "last_commit": "2021-10-18T21:21:21Z",
             "owner": "aaren",
@@ -976,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110680312,
             "language": "Python",
             "last_commit": "2020-07-07T15:27:20Z",
             "owner": "elehcimd",
@@ -990,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 259650645,
             "language": "Python",
             "last_commit": "2024-08-15T16:17:28Z",
             "owner": "ideonate",
@@ -1004,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349153026,
             "language": "Python",
             "last_commit": "2022-07-23T20:55:06Z",
             "owner": "kracekumar",
@@ -1018,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54997946,
             "language": "Python",
             "last_commit": "2018-10-09T19:56:01Z",
             "owner": "jhamrick",
@@ -1032,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64857538,
             "language": "Python",
             "last_commit": "2020-11-04T22:13:04Z",
             "owner": "takluyver",
@@ -1046,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263327929,
             "language": "Jinja",
             "last_commit": "2026-08-09T14:24:10Z",
             "owner": "timkpaine",
@@ -1060,6 +1114,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86542739,
             "language": "Python",
             "last_commit": "2019-10-28T17:04:07Z",
             "owner": "conery",
@@ -1074,6 +1129,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42964441,
             "language": "TeX",
             "last_commit": "2023-10-04T17:39:02Z",
             "owner": "nthiery",
@@ -1088,6 +1144,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239854510,
             "language": "Shell",
             "last_commit": "2026-03-27T16:25:45Z",
             "owner": "gitjeff05",
@@ -1102,6 +1159,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374363825,
             "language": "Python",
             "last_commit": "2023-02-08T01:44:33Z",
             "owner": "manugraj",
@@ -1113,7 +1171,7 @@
       "title": "Rendering/Publishing/Conversion"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1122,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46264628,
             "language": "TypeScript",
             "last_commit": "2026-06-10T10:12:19Z",
             "owner": "jupyter",
@@ -1136,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94917848,
             "language": "TypeScript",
             "last_commit": "2026-08-17T06:16:54Z",
             "owner": "jupyterlab",
@@ -1150,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278889378,
             "language": "Python",
             "last_commit": "2026-08-17T18:53:27Z",
             "owner": "nbQA-dev",
@@ -1164,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437109847,
             "language": "Python",
             "last_commit": "2026-02-25T14:23:45Z",
             "owner": "datarootsio",
@@ -1178,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193650988,
             "language": "TypeScript",
             "last_commit": "2023-05-29T09:18:17Z",
             "owner": "thoth-station",
@@ -1189,7 +1252,7 @@
       "title": "Version Control"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1198,8 +1261,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599781179,
             "language": "Python",
-            "last_commit": "2026-08-18T06:06:05Z",
+            "last_commit": "2026-08-19T06:05:59Z",
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
             "stars": 4375
@@ -1212,8 +1276,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216914329,
             "language": "Python",
-            "last_commit": "2026-08-19T04:46:02Z",
+            "last_commit": "2026-08-19T05:54:31Z",
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
@@ -1226,11 +1291,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774759366,
             "language": "TypeScript",
             "last_commit": "2026-07-23T05:19:04Z",
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1397
+            "stars": 1398
           }
         },
         {
@@ -1240,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137253934,
             "language": "TypeScript",
             "last_commit": "2026-04-17T17:30:53Z",
             "owner": "jupyterlab-contrib",
@@ -1254,6 +1321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112877413,
             "language": "TypeScript",
             "last_commit": "2023-04-05T12:21:41Z",
             "owner": "jwkvam",
@@ -1268,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144499900,
             "language": "Python",
             "last_commit": "2026-08-07T07:11:43Z",
             "owner": "jupyterlab-contrib",
@@ -1282,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 124914240,
             "language": "TypeScript",
             "last_commit": "2022-07-07T04:18:47Z",
             "owner": "jupyterlab",
@@ -1296,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108065356,
             "language": "TypeScript",
             "last_commit": "2025-12-17T09:34:48Z",
             "owner": "jupyterlab",
@@ -1310,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 390514853,
             "language": "Jupyter Notebook",
             "last_commit": "2025-02-22T22:58:04Z",
             "owner": "LineaLabs",
@@ -1324,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119714147,
             "language": "JavaScript",
             "last_commit": "2024-07-25T13:25:21Z",
             "owner": "QuantStack",
@@ -1338,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423897163,
             "language": "TypeScript",
             "last_commit": "2023-12-24T03:19:25Z",
             "owner": "xiaohk",
@@ -1352,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 197822581,
             "language": "TypeScript",
             "last_commit": "2022-03-15T11:03:46Z",
             "owner": "jupyterlab",
@@ -1366,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168674852,
             "language": "TypeScript",
             "last_commit": "2023-01-05T04:02:41Z",
             "owner": "pbugnion",
@@ -1380,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125671008,
             "language": "JavaScript",
             "last_commit": "2026-08-09T14:21:51Z",
             "owner": "finos",
@@ -1394,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76697406,
             "language": "TypeScript",
             "last_commit": "2023-08-03T16:55:22Z",
             "owner": "jupyterlab",
@@ -1408,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145418185,
             "language": "Python",
             "last_commit": "2023-07-28T14:20:59Z",
             "owner": "dnanhkhoa",
@@ -1422,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 196719467,
             "language": "TypeScript",
             "last_commit": "2023-07-28T15:17:36Z",
             "owner": "jtpio",
@@ -1436,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101495888,
             "language": "TypeScript",
             "last_commit": "2022-12-06T19:48:00Z",
             "owner": "altair-viz",
@@ -1450,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126804833,
             "language": "TypeScript",
             "last_commit": "2026-04-15T18:56:36Z",
             "owner": "jupyter-widgets",
@@ -1464,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210663275,
             "language": "TypeScript",
             "last_commit": "2026-07-01T00:57:12Z",
             "owner": "jpmorganchase",
@@ -1478,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162771624,
             "language": "TypeScript",
             "last_commit": "2021-08-23T19:48:16Z",
             "owner": "krassowski",
@@ -1492,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166749179,
             "language": "CSS",
             "last_commit": "2023-06-06T08:38:20Z",
             "owner": "telamonian",
@@ -1506,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527770702,
             "language": "TypeScript",
             "last_commit": "2026-04-01T14:12:56Z",
             "owner": "krassowski",
@@ -1520,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273102090,
             "language": "CSS",
             "last_commit": "2026-08-16T14:54:26Z",
             "owner": "timkpaine",
@@ -1534,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124823433,
             "language": "JavaScript",
             "last_commit": "2026-08-16T15:00:11Z",
             "owner": "timkpaine",
@@ -1548,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 137811251,
             "language": "TypeScript",
             "last_commit": "2020-04-29T18:27:31Z",
             "owner": "jupyterlab",
@@ -1562,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513527933,
             "language": "TypeScript",
             "last_commit": "2024-07-29T19:50:21Z",
             "owner": "HFAiLab",
@@ -1576,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160274963,
             "language": "TypeScript",
             "last_commit": "2026-08-11T14:15:47Z",
             "owner": "jupyterlab-contrib",
@@ -1590,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145919273,
             "language": "Python",
             "last_commit": "2026-08-16T15:00:32Z",
             "owner": "timkpaine",
@@ -1604,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143177684,
             "language": "JavaScript",
             "last_commit": "2026-08-16T14:59:43Z",
             "owner": "timkpaine",
@@ -1618,6 +1711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150898312,
             "language": "TypeScript",
             "last_commit": "2023-01-03T15:16:54Z",
             "owner": "jtpio",
@@ -1632,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332545154,
             "language": "Jupyter Notebook",
             "last_commit": "2023-11-15T15:35:44Z",
             "owner": "mwakaba2",
@@ -1646,6 +1741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143883226,
             "language": "Python",
             "last_commit": "2026-08-16T14:59:42Z",
             "owner": "timkpaine",
@@ -1660,6 +1756,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 137811661,
             "language": "TypeScript",
             "last_commit": "2023-08-08T06:52:04Z",
             "owner": "jupyterlab",
@@ -1674,6 +1771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396780580,
             "language": "TypeScript",
             "last_commit": "2023-07-21T16:20:44Z",
             "owner": "codota",
@@ -1688,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 539549415,
             "language": "TypeScript",
             "last_commit": "2024-02-19T11:37:31Z",
             "owner": "run-ai",
@@ -1702,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325326897,
             "language": "TypeScript",
             "last_commit": "2023-09-10T20:15:25Z",
             "owner": "gavincyi",
@@ -1716,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204044560,
             "language": "Python",
             "last_commit": "2025-10-23T10:46:58Z",
             "owner": "holoviz",
@@ -1730,6 +1831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684115434,
             "language": "TypeScript",
             "last_commit": "2024-09-18T17:05:27Z",
             "owner": "teticio",
@@ -1744,6 +1846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372574371,
             "language": "TypeScript",
             "last_commit": "2024-02-23T12:48:27Z",
             "owner": "jtpio",
@@ -1758,24 +1861,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146310674,
             "language": "Jupyter Notebook",
             "last_commit": "2023-09-25T12:44:08Z",
             "owner": "kyso-io",
             "repo": "jupyterlab-extension",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "jupyter-notify",
-          "description": "Cell magic for browser notification of cell completion.",
-          "children": []
         }
       ],
       "title": "JupyterLab Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1784,6 +1882,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 877613792,
             "language": "Python",
             "last_commit": "2026-08-18T19:10:57Z",
             "owner": "posit-dev",
@@ -1798,6 +1897,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33660979,
             "language": "Python",
             "last_commit": "2025-09-17T08:10:44Z",
             "owner": "computationalmodelling",
@@ -1812,6 +1912,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51264625,
             "language": "Python",
             "last_commit": "2025-02-16T18:16:37Z",
             "owner": "chmp",
@@ -1826,6 +1927,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178426444,
             "language": "Python",
             "last_commit": "2022-08-04T11:15:43Z",
             "owner": "ReviewNB",
@@ -1840,6 +1942,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 238724781,
             "language": "TypeScript",
             "last_commit": "2021-09-21T08:52:43Z",
             "owner": "treebeardtech",
@@ -1854,6 +1957,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145919397,
             "language": "Python",
             "last_commit": "2026-08-12T07:36:07Z",
             "owner": "jpmorganchase",
@@ -1868,6 +1972,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30734725,
             "language": "Jupyter Notebook",
             "last_commit": "2022-02-17T10:25:49Z",
             "owner": "bollwyvl",
@@ -1882,6 +1987,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 106642829,
             "language": "Python",
             "last_commit": "2026-06-09T23:23:04Z",
             "owner": "QuantEcon",
@@ -1893,7 +1999,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1902,6 +2008,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64249762,
             "language": "Python",
             "last_commit": "2019-01-21T15:53:04Z",
             "owner": "OpenGeoscience",
@@ -1916,6 +2023,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101499621,
             "language": "Jupyter Notebook",
             "last_commit": "2022-01-12T03:10:45Z",
             "owner": "parrt",
@@ -1930,6 +2038,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233240141,
             "language": "Python",
             "last_commit": "2024-01-22T16:39:18Z",
             "owner": "nir",
@@ -1944,6 +2053,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45709332,
             "language": null,
             "last_commit": "2019-05-21T21:34:52Z",
             "owner": "BruceSherwood",
@@ -1958,6 +2068,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471969357,
             "language": "Python",
             "last_commit": "2026-08-18T08:38:34Z",
             "owner": "xonsh",
@@ -1969,7 +2080,7 @@
       "title": "Domain-Specific Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1978,11 +2089,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83516498,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-19T03:40:14Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24397
+            "stars": 24398
           }
         },
         {
@@ -1992,11 +2104,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36895421,
             "language": "Python",
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351
+            "stars": 15352
           }
         },
         {
@@ -2006,6 +2119,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27844645,
             "language": "CSS",
             "last_commit": "2025-06-22T15:37:46Z",
             "owner": "dunovank",
@@ -2020,6 +2134,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6920160,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-02T22:19:39Z",
             "owner": "jrjohansson",
@@ -2034,6 +2149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299951448,
             "language": "Jupyter Notebook",
             "last_commit": "2024-10-21T10:10:48Z",
             "owner": "jupyter-naas",
@@ -2048,6 +2164,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21578345,
             "language": "Jupyter Notebook",
             "last_commit": "2023-10-20T02:04:34Z",
             "owner": "bokeh",
@@ -2062,6 +2179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152854964,
             "language": null,
             "last_commit": "2022-11-06T17:58:49Z",
             "owner": "guillaume-chevalier",
@@ -2076,6 +2194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123181026,
             "language": "Jupyter Notebook",
             "last_commit": "2022-12-21T08:17:12Z",
             "owner": "markusschanta",
@@ -2085,16 +2204,12 @@
         }
       ],
       "title": "Articles/Guides/Tutorials"
-    },
-    {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:05:08.445Z",
+    "last_updated": "2026-08-19T12:36:54.844Z",
     "original_repository": "markusschanta/awesome-jupyter",
+    "original_repository_id": 101582879,
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
     "enhanced_repository": "enhansome/enhansome-jupyter",
     "enhanced_repository_description": null,
