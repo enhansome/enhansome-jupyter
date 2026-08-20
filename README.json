@@ -12,10 +12,10 @@
             "archived": false,
             "id": 60374819,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:02:25Z",
+            "last_commit": "2026-08-19T14:24:00Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15258
+            "stars": 15259
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T16:43:37Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13307
+            "stars": 13309
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-17T11:33:41Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8456
+            "stars": 8457
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 145848899,
             "language": "Python",
-            "last_commit": "2026-08-18T16:26:10Z",
+            "last_commit": "2026-08-19T21:34:08Z",
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5734
+            "stars": 5735
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:45:46Z",
+            "last_commit": "2026-08-20T04:52:10Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 901
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1155631492,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:39:33Z",
+            "last_commit": "2026-08-19T22:21:26Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 160
@@ -341,6 +341,21 @@
         },
         {
           "node_type": "item",
+          "title": "ipygame",
+          "description": "A pygame-compatible reimplementation for Jupyter notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153920855,
+            "language": "Python",
+            "last_commit": "2026-08-16T19:16:35Z",
+            "owner": "Kamuyin",
+            "repo": "ipygame",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
           "title": "nbautoeval",
           "description": "Create auto-evaluated exercises.",
           "children": [],
@@ -352,21 +367,6 @@
             "owner": "parmentelat",
             "repo": "nbautoeval",
             "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ipygame",
-          "description": "A pygame-compatible reimplementation for Jupyter notebooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1153920855,
-            "language": "Python",
-            "last_commit": "2026-08-16T19:16:35Z",
-            "owner": "Kamuyin",
-            "repo": "ipygame",
-            "stars": 6
           }
         }
       ],
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-17T21:24:27Z",
             "owner": "tqdm",
             "repo": "tqdm",
-            "stars": 31276
+            "stars": 31277
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11119
+            "stars": 11121
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7819
+            "stars": 7822
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5376
+            "stars": 5377
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-07-06T21:18:39Z",
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6470
+            "stars": 6472
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2026-08-15T09:18:18Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5305
+            "stars": 5306
           }
         },
         {
@@ -969,7 +969,7 @@
             "last_commit": "2026-08-08T16:10:16Z",
             "owner": "jupyter-book",
             "repo": "jupyter-book",
-            "stars": 4269
+            "stars": 4270
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2026-08-19T06:05:59Z",
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
-            "stars": 4375
+            "stars": 4377
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "archived": false,
             "id": 216914329,
             "language": "Python",
-            "last_commit": "2026-08-19T05:54:31Z",
+            "last_commit": "2026-08-19T16:36:12Z",
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
@@ -1884,7 +1884,7 @@
             "archived": false,
             "id": 877613792,
             "language": "Python",
-            "last_commit": "2026-08-18T19:10:57Z",
+            "last_commit": "2026-08-19T14:47:34Z",
             "owner": "posit-dev",
             "repo": "pointblank",
             "stars": 482
@@ -2094,7 +2094,7 @@
             "last_commit": "2026-07-19T03:40:14Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24398
+            "stars": 24399
           }
         },
         {
@@ -2154,7 +2154,7 @@
             "last_commit": "2024-10-21T10:10:48Z",
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3008
+            "stars": 3009
           }
         },
         {
@@ -2207,7 +2207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:54.844Z",
+    "last_updated": "2026-08-20T05:06:08.900Z",
     "original_repository": "markusschanta/awesome-jupyter",
     "original_repository_id": 101582879,
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
