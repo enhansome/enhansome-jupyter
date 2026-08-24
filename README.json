@@ -27,10 +27,10 @@
             "archived": false,
             "id": 33653601,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T16:43:37Z",
+            "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13318
+            "stars": 13319
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 39144867,
             "language": "Python",
-            "last_commit": "2026-08-23T23:32:20Z",
+            "last_commit": "2026-08-24T11:05:23Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
             "stars": 8459
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 145848899,
             "language": "Python",
-            "last_commit": "2026-08-23T18:43:33Z",
+            "last_commit": "2026-08-24T11:24:10Z",
             "owner": "holoviz",
             "repo": "panel",
             "stars": 5740
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1155631492,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:27:55Z",
+            "last_commit": "2026-08-24T09:48:40Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 160
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15777
+            "stars": 15778
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11130
+            "stars": 11131
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7837
+            "stars": 7840
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5378
+            "stars": 5377
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2026-08-22T06:04:23Z",
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
-            "stars": 4382
+            "stars": 4383
           }
         },
         {
@@ -2084,6 +2084,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Jupyter kernels",
+          "description": "List of all programming languages available as Jupyter kernels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36895421,
+            "language": "Python",
+            "last_commit": "2026-07-09T16:05:40Z",
+            "owner": "jupyter",
+            "repo": "jupyter",
+            "stars": 15352
+          }
+        }
+      ],
+      "title": "Official Resources and Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "pytudes",
           "description": "List of Jupyter Notebooks by Peter Norvig.",
           "children": [],
@@ -2094,7 +2115,7 @@
             "last_commit": "2026-07-19T03:40:14Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24404
+            "stars": 24403
           }
         },
         {
@@ -2207,7 +2228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:21:40.740Z",
+    "last_updated": "2026-08-24T13:56:23.347Z",
     "original_repository": "markusschanta/awesome-jupyter",
     "original_repository_id": 101582879,
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
