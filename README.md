@@ -88,8 +88,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Visualization
 
 * [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,288 | 🐛 602 | 🌐 Python | 📅 2026-08-17 - Fast, extensible progress bar for loops and iterables.
-* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,776 | 🐛 4 | 🌐 Python | 📅 2026-08-04 - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) ⭐ 67,146 | 🐛 1,541 | 🌐 TypeScript | 📅 2026-08-04 visualization library.
-* [Perspective](https://github.com/finos/perspective) ⭐ 11,132 | 🐛 60 | 🌐 Rust | 📅 2026-08-25 - Data visualization and analytics component, especially for large/streaming datasets.
+* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,776 | 🐛 4 | 🌐 Python | 📅 2026-08-04 - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) ⭐ 67,147 | 🐛 1,541 | 🌐 TypeScript | 📅 2026-08-04 visualization library.
+* [Perspective](https://github.com/finos/perspective) ⭐ 11,132 | 🐛 57 | 🌐 Rust | 📅 2026-08-25 - Data visualization and analytics component, especially for large/streaming datasets.
 * [Altair](https://github.com/altair-viz/altair) ⭐ 10,458 | 🐛 145 | 🌐 Python | 📅 2026-08-16 - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite) ⭐ 5,463 | 🐛 818 | 🌐 TypeScript | 📅 2026-08-24.
 * [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,844 | 🐛 298 | 🌐 Jupyter Notebook | 📅 2026-08-05 - Interactive reports to analyze machine learning models during validation or production monitoring.
 * [lux](https://github.com/lux-org/lux) ⭐ 5,377 | 🐛 90 | 🌐 Python | 📅 2024-03-20 - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
@@ -104,7 +104,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 * [tributary](https://github.com/timkpaine/tributary) ⭐ 466 | 🐛 9 | 🌐 Python | 📅 2026-06-23 - Python data streams with Jupyter support.
 * [ipycytoscape](https://github.com/cytoscape/ipycytoscape) ⭐ 289 | 🐛 74 | 🌐 Python | 📅 2026-07-06 - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
 * [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) ⭐ 253 | 🐛 44 | 🌐 JavaScript | 📅 2024-02-20 - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
-* [jupyter-manim](https://github.com/krassowski/jupyter-manim) ⭐ 199 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - Display [manim](https://github.com/3b1b/manim) ⭐ 92,014 | 🐛 490 | 🌐 Python | 📅 2026-08-18 (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+* [jupyter-manim](https://github.com/krassowski/jupyter-manim) ⭐ 199 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - Display [manim](https://github.com/3b1b/manim) ⭐ 92,013 | 🐛 490 | 🌐 Python | 📅 2026-08-18 (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
 * [xwidgets](https://github.com/QuantStack/xwidgets) ⭐ 146 | 🐛 21 | 🌐 C++ | 📅 2026-04-21 - C++ Backend for ipywidgets.
 * [ipychart](https://github.com/nicohlr/ipychart) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2024-08-24 - Interactive Chart.js plots in Jupyter.
 * [ipytree](https://github.com/QuantStack/ipytree/) ⭐ 133 | 🐛 32 | 🌐 CSS | 📅 2026-03-16 - Tree UI element for Jupyter.
@@ -169,7 +169,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 * [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) ⭐ 4,382 | 🐛 300 | 🌐 Python | 📅 2026-08-24 - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 * [elyra](https://github.com/elyra-ai/elyra) ⭐ 1,996 | 🐛 261 | 🌐 Python | 📅 2026-08-19 - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
-* [amphi-etl](https://github.com/amphi-ai/amphi-etl) ⭐ 1,398 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-24 - Low-code ETL extension for Jupyterlab.
+* [amphi-etl](https://github.com/amphi-ai/amphi-etl) ⭐ 1,399 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-24 - Low-code ETL extension for Jupyterlab.
 * [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) ⭐ 1,168 | 🐛 68 | 🌐 TypeScript | 📅 2026-04-17 - Variable inspector extension that shows variables and their values.
 * [vim](https://github.com/jwkvam/jupyterlab-vim) ⭐ 981 | 🐛 70 | 🌐 TypeScript | 📅 2023-04-05 - Vim notebook cell bindings.
 * [code\_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) ⭐ 906 | 🐛 27 | 🌐 Python | 📅 2026-08-07 - A universal code formatter.

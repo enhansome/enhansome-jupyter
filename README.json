@@ -414,7 +414,7 @@
             "archived": false,
             "id": 109291007,
             "language": "Rust",
-            "last_commit": "2026-08-25T04:25:24Z",
+            "last_commit": "2026-08-25T05:10:24Z",
             "owner": "perspective-dev",
             "repo": "perspective",
             "stars": 11132
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-08-24T01:43:02Z",
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1398
+            "stars": 1399
           }
         },
         {
@@ -2228,7 +2228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:07:47.790Z",
+    "last_updated": "2026-08-25T05:49:00.942Z",
     "original_repository": "markusschanta/awesome-jupyter",
     "original_repository_id": 101582879,
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
