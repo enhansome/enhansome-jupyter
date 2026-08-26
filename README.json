@@ -12,10 +12,10 @@
             "archived": false,
             "id": 60374819,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T14:24:00Z",
+            "last_commit": "2026-08-25T15:43:18Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15266
+            "stars": 15270
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13321
+            "stars": 13322
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T11:05:23Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8459
+            "stars": 8460
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T21:48:18Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8329
+            "stars": 8331
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T14:39:47Z",
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5740
+            "stars": 5759
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 90307576,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T21:21:11Z",
+            "last_commit": "2026-08-25T23:55:08Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab-desktop",
-            "stars": 4291
+            "stars": 4290
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-20T21:01:49Z",
             "owner": "Kaggle",
             "repo": "docker-python",
-            "stars": 2729
+            "stars": 2730
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:05:46Z",
+            "last_commit": "2026-08-25T19:50:39Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 901
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1155631492,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:48:40Z",
+            "last_commit": "2026-08-26T05:01:01Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 162
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 73084481,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:13:46Z",
+            "last_commit": "2026-08-25T14:43:10Z",
             "owner": "lgpage",
             "repo": "nbtutor",
             "stars": 472
@@ -341,21 +341,6 @@
         },
         {
           "node_type": "item",
-          "title": "ipygame",
-          "description": "A pygame-compatible reimplementation for Jupyter notebooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1153920855,
-            "language": "Python",
-            "last_commit": "2026-08-16T19:16:35Z",
-            "owner": "Kamuyin",
-            "repo": "ipygame",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
           "title": "nbautoeval",
           "description": "Create auto-evaluated exercises.",
           "children": [],
@@ -367,6 +352,21 @@
             "owner": "parmentelat",
             "repo": "nbautoeval",
             "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipygame",
+          "description": "A pygame-compatible reimplementation for Jupyter notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153920855,
+            "language": "Python",
+            "last_commit": "2026-08-16T19:16:35Z",
+            "owner": "Kamuyin",
+            "repo": "ipygame",
+            "stars": 14
           }
         }
       ],
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-17T21:24:27Z",
             "owner": "tqdm",
             "repo": "tqdm",
-            "stars": 31288
+            "stars": 31290
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15776
+            "stars": 15777
           }
         },
         {
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 109291007,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:10:24Z",
+            "last_commit": "2026-08-26T02:52:14Z",
             "owner": "perspective-dev",
             "repo": "perspective",
             "stars": 11132
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7844
+            "stars": 7848
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2026-03-10T21:02:03Z",
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 623
+            "stars": 624
           }
         },
         {
@@ -894,7 +894,7 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7230
+            "stars": 7231
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-07-06T21:18:39Z",
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6477
+            "stars": 6476
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2026-08-25T01:26:45Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5308
+            "stars": 5312
           }
         },
         {
@@ -951,7 +951,7 @@
             "archived": false,
             "id": 440184597,
             "language": "Python",
-            "last_commit": "2026-08-21T14:55:49Z",
+            "last_commit": "2026-08-25T11:04:44Z",
             "owner": "mljar",
             "repo": "mercury",
             "stars": 4348
@@ -1263,10 +1263,10 @@
             "archived": false,
             "id": 599781179,
             "language": "Python",
-            "last_commit": "2026-08-24T20:14:54Z",
+            "last_commit": "2026-08-25T20:08:35Z",
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
-            "stars": 4382
+            "stars": 4380
           }
         },
         {
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-08-24T01:43:02Z",
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1399
+            "stars": 1401
           }
         },
         {
@@ -1386,7 +1386,7 @@
             "last_commit": "2025-02-22T22:58:04Z",
             "owner": "LineaLabs",
             "repo": "lineapy",
-            "stars": 671
+            "stars": 672
           }
         },
         {
@@ -1770,7 +1770,7 @@
           "description": "Tabnine AI auto completer extension.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 396780580,
             "language": "TypeScript",
             "last_commit": "2023-07-21T16:20:44Z",
@@ -1884,10 +1884,10 @@
             "archived": false,
             "id": 877613792,
             "language": "Python",
-            "last_commit": "2026-08-21T01:00:34Z",
+            "last_commit": "2026-08-26T03:31:14Z",
             "owner": "posit-dev",
             "repo": "pointblank",
-            "stars": 484
+            "stars": 487
           }
         },
         {
@@ -2070,7 +2070,7 @@
             "archived": false,
             "id": 471969357,
             "language": "Python",
-            "last_commit": "2026-08-24T17:53:11Z",
+            "last_commit": "2026-08-25T08:21:14Z",
             "owner": "xonsh",
             "repo": "xontrib-jupyter",
             "stars": 40
@@ -2112,10 +2112,10 @@
             "archived": false,
             "id": 83516498,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T23:45:38Z",
+            "last_commit": "2026-08-26T04:37:08Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24403
+            "stars": 24402
           }
         },
         {
@@ -2145,7 +2145,7 @@
             "last_commit": "2025-06-22T15:37:46Z",
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9819
+            "stars": 9820
           }
         },
         {
@@ -2175,7 +2175,7 @@
             "last_commit": "2024-10-21T10:10:48Z",
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3015
+            "stars": 3014
           }
         },
         {
@@ -2228,7 +2228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:00.942Z",
+    "last_updated": "2026-08-26T05:07:37.807Z",
     "original_repository": "markusschanta/awesome-jupyter",
     "original_repository_id": 101582879,
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
