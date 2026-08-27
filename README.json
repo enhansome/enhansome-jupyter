@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T13:52:47Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15272
+            "stars": 15273
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-19T05:45:37Z",
             "owner": "nteract",
             "repo": "hydrogen",
-            "stars": 4020
+            "stars": 4019
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:41:14Z",
+            "last_commit": "2026-08-27T14:02:43Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 900
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1155631492,
             "language": "Rust",
-            "last_commit": "2026-08-27T04:40:04Z",
+            "last_commit": "2026-08-27T13:02:06Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 162
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15775
+            "stars": 15776
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7850
+            "stars": 7851
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2024-01-04T06:37:51Z",
             "owner": "jupyter-widgets-contrib",
             "repo": "ipysheet",
-            "stars": 552
+            "stars": 551
           }
         },
         {
@@ -894,7 +894,7 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7232
+            "stars": 7233
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-07-06T21:18:39Z",
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6477
+            "stars": 6476
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2026-08-26T23:00:38Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5312
+            "stars": 5313
           }
         },
         {
@@ -951,7 +951,7 @@
             "archived": false,
             "id": 440184597,
             "language": "Python",
-            "last_commit": "2026-08-27T09:09:09Z",
+            "last_commit": "2026-08-27T13:06:36Z",
             "owner": "mljar",
             "repo": "mercury",
             "stars": 4351
@@ -2115,7 +2115,7 @@
             "last_commit": "2026-08-26T05:51:10Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24403
+            "stars": 24402
           }
         },
         {
@@ -2145,7 +2145,7 @@
             "last_commit": "2025-06-22T15:37:46Z",
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9819
+            "stars": 9818
           }
         },
         {
@@ -2228,7 +2228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:22.046Z",
+    "last_updated": "2026-08-27T15:25:55.912Z",
     "original_repository_info": {
       "archived": false,
       "id": 101582879,
