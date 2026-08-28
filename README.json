@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T13:52:47Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15273
-          }
+            "stars": 15275
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13325
-          }
+            "stars": 13327
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-24T11:05:23Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8459
-          }
+            "stars": 8461
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-24T21:48:18Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8332
-          }
+            "stars": 8333
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5938
-          }
+            "stars": 5939
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 145848899,
             "language": "Python",
-            "last_commit": "2026-08-26T16:25:35Z",
+            "last_commit": "2026-08-28T16:00:09Z",
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5762
-          }
+            "stars": 5763
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-27T03:24:49Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab-desktop",
-            "stars": 4292
-          }
+            "stars": 4291
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "nteract",
             "repo": "hydrogen",
             "stars": 4019
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ml-tooling",
             "repo": "ml-workspace",
             "stars": 3544
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Kaggle",
             "repo": "docker-python",
             "stars": 2731
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "stencila",
             "repo": "stencila",
             "stars": 900
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "tweag",
             "repo": "jupyenv",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -192,11 +204,12 @@
             "archived": false,
             "id": 1155631492,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:02:06Z",
+            "last_commit": "2026-08-28T13:24:16Z",
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 162
-          }
+            "stars": 163
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Runtimes/Frontends"
@@ -217,7 +230,8 @@
             "owner": "jupyter",
             "repo": "nbgrader",
             "stars": 1369
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "lgpage",
             "repo": "nbtutor",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "jupyter",
             "repo": "jupyter-drive",
             "stars": 421
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "jupyterhub",
             "repo": "nbgitpuller",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "jmshea",
             "repo": "jupyterquiz",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "jiffyclub",
             "repo": "ipythonblocks",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "osteele",
             "repo": "callgraph",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "jupyterhub",
             "repo": "ltiauthenticator",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "IllumiChat",
             "repo": "illumidesk",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "parmentelat",
             "repo": "nbautoeval",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "Kamuyin",
             "repo": "ipygame",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Collaboration/Education"
@@ -387,8 +411,9 @@
             "last_commit": "2026-08-17T21:24:27Z",
             "owner": "tqdm",
             "repo": "tqdm",
-            "stars": 31294
-          }
+            "stars": 31299
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -402,8 +427,9 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15776
-          }
+            "stars": 15777
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -417,8 +443,9 @@
             "last_commit": "2026-08-26T21:31:56Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11135
-          }
+            "stars": 11138
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -432,8 +459,9 @@
             "last_commit": "2026-08-16T17:34:41Z",
             "owner": "vega",
             "repo": "altair",
-            "stars": 10460
-          }
+            "stars": 10461
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -447,8 +475,9 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7851
-          }
+            "stars": 7859
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "lux-org",
             "repo": "lux",
             "stars": 5377
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "bqplot",
             "repo": "bqplot",
             "stars": 3693
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
             "stars": 3326
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "widgetti",
             "repo": "ipyvolume",
             "stars": 1963
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "jupyter-widgets",
             "repo": "ipyleaflet",
             "stars": 1538
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "jupyter-widgets",
             "repo": "pythreejs",
             "stars": 989
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "vizzuhq",
             "repo": "ipyvizzu",
             "stars": 971
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "pbugnion",
             "repo": "gmaps",
             "stars": 766
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "1kbgz",
             "repo": "tributary",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "cytoscape",
             "repo": "ipycytoscape",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "maartenbreddels",
             "repo": "ipywebrtc",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "krassowski",
             "repo": "jupyter-manim",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "jupyter-xeus",
             "repo": "xwidgets",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "nicohlr",
             "repo": "ipychart",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "jupyter-widgets-contrib",
             "repo": "ipytree",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "jupyter-xeus",
             "repo": "xleaflet",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "timkpaine",
             "repo": "ipydagred3",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "AaronWatters",
             "repo": "jp_doodle",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "bsnacks000",
             "repo": "IPySigma-Demo",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "QuantStack",
             "repo": "xwebrtc",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "sammycdubs",
             "repo": "pd-replicator",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Visualization"
@@ -799,7 +850,8 @@
             "owner": "quantopian",
             "repo": "qgrid",
             "stars": 3083
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "mwouts",
             "repo": "itables",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "jupyter-widgets",
             "repo": "ipydatagrid",
             "stars": 642
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "jupyter-widgets-contrib",
             "repo": "ipysheet",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "finos",
             "repo": "ipyregulartable",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "widgetti",
             "repo": "ipyaggrid",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Tables"
@@ -894,8 +951,9 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7233
-          }
+            "stars": 7234
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -909,8 +967,9 @@
             "last_commit": "2026-07-06T21:18:39Z",
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6476
-          }
+            "stars": 6477
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -924,8 +983,9 @@
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5938
-          }
+            "stars": 5939
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -939,8 +999,9 @@
             "last_commit": "2026-08-26T23:00:38Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5313
-          }
+            "stars": 5314
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -951,11 +1012,12 @@
             "archived": false,
             "id": 440184597,
             "language": "Python",
-            "last_commit": "2026-08-27T13:06:36Z",
+            "last_commit": "2026-08-28T07:34:09Z",
             "owner": "mljar",
             "repo": "mercury",
             "stars": 4351
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -969,8 +1031,9 @@
             "last_commit": "2026-08-08T16:10:16Z",
             "owner": "jupyter-book",
             "repo": "jupyter-book",
-            "stars": 4274
-          }
+            "stars": 4273
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -984,8 +1047,9 @@
             "last_commit": "2023-10-29T13:51:07Z",
             "owner": "damianavila",
             "repo": "RISE",
-            "stars": 3738
-          }
+            "stars": 3737
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1064,8 @@
             "owner": "ploomber",
             "repo": "ploomber",
             "stars": 3622
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1080,8 @@
             "owner": "aaren",
             "repo": "notedown",
             "stars": 859
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1096,8 @@
             "owner": "elehcimd",
             "repo": "pynb",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1112,8 @@
             "owner": "ideonate",
             "repo": "cdsdashboards",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1128,8 @@
             "owner": "kracekumar",
             "repo": "jut",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1144,8 @@
             "owner": "jhamrick",
             "repo": "nbflow",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1160,8 @@
             "owner": "takluyver",
             "repo": "bookbook",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1176,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-nbconvert-nocode",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1192,8 @@
             "owner": "conery",
             "repo": "nbscan",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1135,7 +1208,8 @@
             "owner": "nthiery",
             "repo": "rst-to-ipynb",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1224,8 @@
             "owner": "gitjeff05",
             "repo": "kapitsa",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1240,8 @@
             "owner": "manugraj",
             "repo": "ganimede",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Rendering/Publishing/Conversion"
@@ -1185,8 +1261,9 @@
             "last_commit": "2026-06-10T10:12:19Z",
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2840
-          }
+            "stars": 2841
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1201,7 +1278,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-git",
             "stars": 1610
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1294,8 @@
             "owner": "nbQA-dev",
             "repo": "nbQA",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1310,8 @@
             "owner": "datarootsio",
             "repo": "databooks",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1326,8 @@
             "owner": "thoth-station",
             "repo": "jupyter-nbrequirements",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Version Control"
@@ -1263,11 +1344,12 @@
             "archived": false,
             "id": 599781179,
             "language": "Python",
-            "last_commit": "2026-08-27T08:58:48Z",
+            "last_commit": "2026-08-28T09:01:26Z",
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
-            "stars": 4383
-          }
+            "stars": 4384
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1364,8 @@
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1296,8 +1379,9 @@
             "last_commit": "2026-08-24T01:43:02Z",
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1401
-          }
+            "stars": 1400
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1396,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-variableInspector",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1412,8 @@
             "owner": "jwkvam",
             "repo": "jupyterlab-vim",
             "stars": 981
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1342,7 +1428,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
             "stars": 907
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1357,7 +1444,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-toc",
             "stars": 728
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1372,7 +1460,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
             "stars": 686
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1387,7 +1476,8 @@
             "owner": "LineaLabs",
             "repo": "lineapy",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1402,7 +1492,8 @@
             "owner": "QuantStack",
             "repo": "jupyterlab-drawio",
             "stars": 623
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1417,7 +1508,8 @@
             "owner": "xiaohk",
             "repo": "stickyland",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1432,7 +1524,8 @@
             "owner": "jupyterlab",
             "repo": "debugger",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1447,7 +1540,8 @@
             "owner": "pbugnion",
             "repo": "jupyterlab-sql",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1462,7 +1556,8 @@
             "owner": "finos",
             "repo": "jupyterlab_templates",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1572,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-google-drive",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1588,8 @@
             "owner": "dnanhkhoa",
             "repo": "nb_black",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1507,7 +1604,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-system-monitor",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1620,8 @@
             "owner": "altair-viz",
             "repo": "jupyterlab_voyager",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1536,8 +1635,9 @@
             "last_commit": "2026-04-15T18:56:36Z",
             "owner": "jupyter-widgets",
             "repo": "jupyterlab-sidecar",
-            "stars": 263
-          }
+            "stars": 264
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1652,8 @@
             "owner": "jpmorganchase",
             "repo": "jupyter-fs",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1567,7 +1668,8 @@
             "owner": "krassowski",
             "repo": "jupyterlab-go-to-definition",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1684,8 @@
             "owner": "telamonian",
             "repo": "theme-darcula",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1593,11 +1696,12 @@
             "archived": false,
             "id": 527770702,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T14:12:56Z",
+            "last_commit": "2026-08-27T18:33:26Z",
             "owner": "krassowski",
             "repo": "jupyterlab-lsp",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1716,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab_miami_nights",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1732,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-iframe",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1748,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-celltags",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1764,8 @@
             "owner": "HFAiLab",
             "repo": "jupyterlab_tensorboard_pro",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1672,7 +1780,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-quickopen",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1687,7 +1796,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-autoversion",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1702,7 +1812,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1717,7 +1828,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-python-bytecode",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1732,7 +1844,8 @@
             "owner": "mwakaba2",
             "repo": "jupyterlab-notifications",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1747,7 +1860,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1762,7 +1876,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-shortcutui",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1777,7 +1892,8 @@
             "owner": "codota",
             "repo": "tabnine-jupyterlab",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1792,7 +1908,8 @@
             "owner": "run-ai",
             "repo": "jupyterlab_genv",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1807,7 +1924,8 @@
             "owner": "gavincyi",
             "repo": "jupyterlab-executor",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1940,8 @@
             "owner": "holoviz",
             "repo": "jupyter-panel-proxy",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1956,8 @@
             "owner": "teticio",
             "repo": "jupyter-stack-trace",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1972,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-topbar",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1988,8 @@
             "owner": "kyso-io",
             "repo": "jupyterlab-extension",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "JupyterLab Extensions"
@@ -1888,7 +2010,8 @@
             "owner": "posit-dev",
             "repo": "pointblank",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1903,7 +2026,8 @@
             "owner": "computationalmodelling",
             "repo": "nbval",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1918,7 +2042,8 @@
             "owner": "chmp",
             "repo": "ipytest",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1933,7 +2058,8 @@
             "owner": "ReviewNB",
             "repo": "treon",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1948,7 +2074,8 @@
             "owner": "treebeardtech",
             "repo": "nbmake-action",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1963,7 +2090,8 @@
             "owner": "jpmorganchase",
             "repo": "nbcelltests",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1978,7 +2106,8 @@
             "owner": "bollwyvl",
             "repo": "nosebook",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -1993,7 +2122,8 @@
             "owner": "QuantEcon",
             "repo": "sphinxcontrib-jupyter",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Testing"
@@ -2014,7 +2144,8 @@
             "owner": "OpenGeoscience",
             "repo": "geonotebook",
             "stars": 1086
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2029,7 +2160,8 @@
             "owner": "parrt",
             "repo": "lolviz",
             "stars": 837
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2044,7 +2176,8 @@
             "owner": "nir",
             "repo": "jupylet",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2059,7 +2192,8 @@
             "owner": "BruceSherwood",
             "repo": "vpython-jupyter",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2074,7 +2208,8 @@
             "owner": "xonsh",
             "repo": "xontrib-jupyter",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Domain-Specific Projects"
@@ -2095,7 +2230,8 @@
             "owner": "jupyter",
             "repo": "jupyter",
             "stars": 15350
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Official Resources and Documentation"
@@ -2112,11 +2248,12 @@
             "archived": false,
             "id": 83516498,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T05:51:10Z",
+            "last_commit": "2026-08-28T01:30:25Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24402
-          }
+            "stars": 24403
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2131,7 +2268,8 @@
             "owner": "jupyter",
             "repo": "jupyter",
             "stars": 15350
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2146,7 +2284,8 @@
             "owner": "dunovank",
             "repo": "jupyter-themes",
             "stars": 9818
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2160,8 +2299,9 @@
             "last_commit": "2026-06-02T22:19:39Z",
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3647
-          }
+            "stars": 3649
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2175,8 +2315,9 @@
             "last_commit": "2024-10-21T10:10:48Z",
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3014
-          }
+            "stars": 3015
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2191,7 +2332,8 @@
             "owner": "bokeh",
             "repo": "bokeh-notebooks",
             "stars": 733
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2206,7 +2348,8 @@
             "owner": "guillaume-chevalier",
             "repo": "How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks",
             "stars": 529
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         },
         {
           "node_type": "item",
@@ -2221,22 +2364,23 @@
             "owner": "markusschanta",
             "repo": "talks",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:53:17.334Z"
         }
       ],
       "title": "Articles/Guides/Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:25:55.912Z",
+    "last_updated": "2026-08-28T16:53:17.334Z",
     "original_repository_info": {
       "archived": false,
       "id": 101582879,
       "language": null,
-      "last_commit": "2026-08-27T01:03:19Z",
+      "last_commit": "2026-08-28T02:24:47Z",
       "owner": "markusschanta",
       "repo": "awesome-jupyter",
-      "stars": 4662
+      "stars": 4663
     },
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
     "enhanced_repository": "enhansome/enhansome-jupyter",
