@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab computational environment.",
+            "homepage": "https://jupyterlab.readthedocs.io/",
             "id": 60374819,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:52:47Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T16:59:27Z",
+            "open_issues": 2599,
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15275
+            "stars": 15275,
+            "topics": [
+              "jupyter",
+              "jupyterlab"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -26,12 +34,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Interactive Notebook",
+            "homepage": "https://jupyter-notebook.readthedocs.io/",
             "id": 33653601,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T07:26:18Z",
+            "open_issues": 1899,
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13327
+            "stars": 13327,
+            "topics": [
+              "closember",
+              "jupyter",
+              "jupyter-notebook",
+              "notebook"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -42,12 +60,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ready-to-run Docker images containing Jupyter applications",
+            "homepage": "https://jupyter-docker-stacks.readthedocs.io",
             "id": 39144867,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T11:05:23Z",
+            "open_issues": 8,
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8461
+            "stars": 8461,
+            "topics": [
+              "docker",
+              "ipython",
+              "ipython-notebook",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyter-notebooks",
+              "jupyterhub",
+              "jupyterlab",
+              "notebook",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -58,12 +92,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-user server for Jupyter notebooks",
+            "homepage": "https://jupyterhub.readthedocs.io",
             "id": 20785986,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T21:48:18Z",
+            "open_issues": 194,
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8333
+            "stars": 8333,
+            "topics": [
+              "ipython",
+              "jupyter-notebook",
+              "jupyterhub",
+              "multi-user",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -74,12 +119,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voilà turns Jupyter notebooks into standalone web applications",
+            "homepage": "https://voila.readthedocs.io",
             "id": 145574616,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T19:33:25Z",
+            "open_issues": 328,
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5939
+            "stars": 5939,
+            "topics": [
+              "dashboarding",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -90,12 +145,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Panel: The powerful data exploration & web app framework for Python",
+            "homepage": "https://panel.holoviz.org",
             "id": 145848899,
             "language": "Python",
-            "last_commit": "2026-08-28T16:00:09Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T21:42:51Z",
+            "open_issues": 1114,
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5763
+            "stars": 5763,
+            "topics": [
+              "bokeh",
+              "control-panels",
+              "dashboards",
+              "dataapp",
+              "datascience",
+              "dataviz",
+              "gui",
+              "holoviews",
+              "holoviz",
+              "hvplot",
+              "jupyter",
+              "matplotlib",
+              "panel",
+              "plotly"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -106,12 +181,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab desktop application, based on Electron.",
+            "homepage": null,
             "id": 90307576,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T03:24:49Z",
+            "open_issues": 169,
             "owner": "jupyterlab",
             "repo": "jupyterlab-desktop",
-            "stars": 4291
+            "stars": 4292,
+            "topics": [
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -122,12 +206,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.",
+            "homepage": "https://nteract.gitbooks.io/hydrogen/",
             "id": 35395056,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T05:45:37Z",
+            "open_issues": 180,
             "owner": "nteract",
             "repo": "hydrogen",
-            "stars": 4019
+            "stars": 4019,
+            "topics": [
+              "atom",
+              "data-science",
+              "hydrogen",
+              "ipython",
+              "jupyter",
+              "jupyter-kernels",
+              "nteract",
+              "repl"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -138,12 +236,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠 All-in-one web-based IDE specialized for machine learning and data science.",
+            "homepage": "https://mltooling.org/ml-workspace",
             "id": 188880197,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-26T07:39:39Z",
+            "open_issues": 0,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3544
+            "stars": 3544,
+            "topics": [
+              "anaconda",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "deep-learning",
+              "docker",
+              "gpu",
+              "jupyter",
+              "jupyter-lab",
+              "jupyter-notebook",
+              "kubernetes",
+              "machine-learning",
+              "neural-networks",
+              "nlp",
+              "python",
+              "pytorch",
+              "r",
+              "scikit-learn",
+              "tensorflow",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -154,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaggle Python docker image",
+            "homepage": null,
             "id": 33904449,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T21:01:49Z",
+            "open_issues": 34,
             "owner": "Kaggle",
             "repo": "docker-python",
-            "stars": 2731
+            "stars": 2731,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -170,12 +299,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documents with Scientific Intelligence",
+            "homepage": "https://stencila.io",
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:02:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:57:17Z",
+            "open_issues": 140,
             "owner": "stencila",
             "repo": "stencila",
-            "stars": 900
+            "stars": 900,
+            "topics": [
+              "document",
+              "executable",
+              "programmable"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -186,12 +324,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative and reproducible Jupyter environments - powered by Nix",
+            "homepage": "https://jupyenv.io/",
             "id": 162268840,
             "language": "Nix",
+            "license": "MIT",
             "last_commit": "2026-08-23T00:09:44Z",
+            "open_issues": 56,
             "owner": "tweag",
             "repo": "jupyenv",
-            "stars": 744
+            "stars": 744,
+            "topics": [
+              "jupyter",
+              "jupyter-notebooks",
+              "jupyterlab",
+              "nix",
+              "reproducibility"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -202,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We're back! Now firing notebooks out of a t-shirt gun.",
+            "homepage": null,
             "id": 1155631492,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T13:24:16Z",
+            "open_issues": 32,
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -224,12 +378,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A system for assigning and grading notebooks",
+            "homepage": "https://nbgrader.readthedocs.io/",
             "id": 23984796,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-11T20:18:18Z",
+            "open_issues": 297,
             "owner": "jupyter",
             "repo": "nbgrader",
-            "stars": 1369
+            "stars": 1369,
+            "topics": [
+              "grading",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterhub",
+              "nbgrader",
+              "teaching"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -240,12 +406,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize Python code execution (line-by-line) in Jupyter Notebook cells.",
+            "homepage": null,
             "id": 73084481,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T14:43:10Z",
+            "open_issues": 27,
             "owner": "lgpage",
             "repo": "nbtutor",
-            "stars": 472
+            "stars": 472,
+            "topics": [
+              "jupyter",
+              "jupyter-notebook",
+              "learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -256,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google drive for jupyter notebooks",
+            "homepage": null,
             "id": 25882864,
             "language": "TypeScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-03-27T18:19:56Z",
+            "open_issues": 26,
             "owner": "jupyter",
             "repo": "jupyter-drive",
-            "stars": 421
+            "stars": 421,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -272,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter server extension to sync a git repository one-way to a local path",
+            "homepage": "https://nbgitpuller.readthedocs.io",
             "id": 92329878,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-01T05:02:31Z",
+            "open_issues": 90,
             "owner": "jupyterhub",
             "repo": "nbgitpuller",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -288,12 +474,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive Quiz generator for Jupyter notebooks and Jupyter Book ",
+            "homepage": null,
             "id": 377004090,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-05T20:36:52Z",
+            "open_issues": 5,
             "owner": "jmshea",
             "repo": "jupyterquiz",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "interactive",
+              "jupyter-notebook",
+              "jupyter-notebooks",
+              "quiz",
+              "self-assessment"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -304,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practice Python with colored grids in the IPython Notebook",
+            "homepage": "http://ipythonblocks.org",
             "id": 7551843,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-22T21:24:20Z",
+            "open_issues": 10,
             "owner": "jiffyclub",
             "repo": "ipythonblocks",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -320,12 +522,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magic to display dynamic call graphs of Python function calls",
+            "homepage": null,
             "id": 116083801,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-21T18:29:45Z",
+            "open_issues": 5,
             "owner": "osteele",
             "repo": "callgraph",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "education",
+              "ipython-magic",
+              "jupyter-notebook-extension",
+              "python",
+              "visualizations"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -336,12 +549,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JupyterHub authenticator for LTI",
+            "homepage": "https://ltiauthenticator.readthedocs.io",
             "id": 114320111,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-03T21:30:26Z",
+            "open_issues": 11,
             "owner": "jupyterhub",
             "repo": "ltiauthenticator",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "jupyterhub",
+              "lms",
+              "lti"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -352,12 +574,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IllumiDesk enhances your LMS with Jupyter Notebooks + Auto-Grading. ",
+            "homepage": "https://docs.illumidesk.com",
             "id": 253625665,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-05T16:11:57Z",
+            "open_issues": 9,
             "owner": "IllumiChat",
             "repo": "illumidesk",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "ansible",
+              "canvas-lms",
+              "docker",
+              "docker-compose",
+              "jupyter",
+              "jupyterhub",
+              "lti-tool",
+              "nbgrader",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -368,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 61117223,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-11T17:07:23Z",
+            "open_issues": 10,
             "owner": "parmentelat",
             "repo": "nbautoeval",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -384,12 +626,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pygame API-compatible reimplementation for running `pygame`-style code inside Jupyter notebooks (backed by ipycanvas)",
+            "homepage": "https://kamuyin.github.io/ipygame/",
             "id": 1153920855,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-16T19:16:35Z",
+            "open_issues": 0,
             "owner": "Kamuyin",
             "repo": "ipygame",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "education",
+              "gamedev",
+              "ipycanvas",
+              "jupyter",
+              "jupyter-notebooks",
+              "notebook",
+              "pygame",
+              "pygame-ce",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -406,12 +663,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI",
+            "homepage": "https://tqdm.github.io",
             "id": 36804486,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T21:24:27Z",
+            "open_issues": 605,
             "owner": "tqdm",
             "repo": "tqdm",
-            "stars": 31299
+            "stars": 31302,
+            "topics": [
+              "cli",
+              "closember",
+              "console",
+              "discord",
+              "gui",
+              "jupyter",
+              "keras",
+              "meter",
+              "pandas",
+              "parallel",
+              "progress",
+              "progress-bar",
+              "progressbar",
+              "progressmeter",
+              "python",
+              "rate",
+              "telegram",
+              "terminal",
+              "time",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -422,12 +705,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Python Echarts Plotting Library",
+            "homepage": "https://pyecharts.org",
             "id": 95067884,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T05:03:08Z",
+            "open_issues": 4,
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15777
+            "stars": 15777,
+            "topics": [
+              "echarts",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -438,12 +729,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+            "homepage": "http://perspective-dev.github.io/",
             "id": 109291007,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:31:56Z",
+            "open_issues": 56,
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11138
+            "stars": 11140,
+            "topics": [
+              "analytics",
+              "bi",
+              "data-visualization",
+              "javascript",
+              "jupyter",
+              "python",
+              "real-time",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -454,12 +759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative visualization library for Python",
+            "homepage": "https://altair-viz.github.io/",
             "id": 42757577,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-16T17:34:41Z",
+            "open_issues": 147,
             "owner": "vega",
             "repo": "altair",
-            "stars": 10461
+            "stars": 10461,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -470,12 +780,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+            "homepage": "https://discord.gg/xZjKRaNp8b",
             "id": 315977578,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T16:29:57Z",
+            "open_issues": 299,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7859
+            "stars": 7861,
+            "topics": [
+              "data-drift",
+              "data-quality",
+              "data-science",
+              "data-validation",
+              "generative-ai",
+              "hacktoberfest",
+              "html-report",
+              "jupyter-notebook",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "model-monitoring",
+              "pandas-dataframe"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -486,12 +816,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically visualize your pandas dataframe via a single print! 📊 💡",
+            "homepage": null,
             "id": 232480726,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-20T15:48:47Z",
+            "open_issues": 90,
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5377
+            "stars": 5378,
+            "topics": [
+              "data-science",
+              "exploratory-data-analysis",
+              "jupyter",
+              "pandas",
+              "python",
+              "visualization",
+              "visualization-tools"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -502,12 +845,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plotting library for IPython/Jupyter notebooks",
+            "homepage": "https://bqplot.github.io/bqplot",
             "id": 43191201,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-07T08:33:08Z",
+            "open_issues": 278,
             "owner": "bqplot",
             "repo": "bqplot",
-            "stars": 3693
+            "stars": 3693,
+            "topics": [
+              "ipython",
+              "jupyter",
+              "visualizations"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -518,12 +870,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive Widgets for the Jupyter Notebook",
+            "homepage": "https://ipywidgets.readthedocs.io",
             "id": 34138622,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T07:43:12Z",
+            "open_issues": 798,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
-            "stars": 3326
+            "stars": 3326,
+            "topics": [
+              "jupyter-notebooks",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -534,12 +894,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL",
+            "homepage": null,
             "id": 77063495,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-29T14:26:24Z",
+            "open_issues": 213,
             "owner": "widgetti",
             "repo": "ipyvolume",
-            "stars": 1963
+            "stars": 1963,
+            "topics": [
+              "dataviz",
+              "ipython-widget",
+              "jupyter",
+              "jupyter-notebook",
+              "plotting",
+              "python",
+              "quiver",
+              "rendering-3d-volumes",
+              "scientific-visualization",
+              "threejs",
+              "virtual-reality",
+              "visualisation",
+              "volume-rendering",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -550,12 +930,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Jupyter - Leaflet.js bridge",
+            "homepage": "https://ipyleaflet.readthedocs.io",
             "id": 19541904,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-07T12:49:17Z",
+            "open_issues": 300,
             "owner": "jupyter-widgets",
             "repo": "ipyleaflet",
-            "stars": 1538
+            "stars": 1538,
+            "topics": [
+              "jupyter",
+              "jupyterlab-extension",
+              "leaflet",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -566,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Jupyter - Three.js bridge",
+            "homepage": "https://pythreejs.readthedocs.io",
             "id": 15400194,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-10T15:48:16Z",
+            "open_issues": 77,
             "owner": "jupyter-widgets",
             "repo": "pythreejs",
-            "stars": 989
+            "stars": 989,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -582,12 +977,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build animated charts in Jupyter Notebook and similar environments with a simple Python syntax.",
+            "homepage": "https://ipyvizzu.vizzuhq.com",
             "id": 444969649,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-26T17:21:53Z",
+            "open_issues": 13,
             "owner": "vizzuhq",
             "repo": "ipyvizzu",
-            "stars": 971
+            "stars": 971,
+            "topics": [
+              "animation",
+              "chart",
+              "charting",
+              "charts",
+              "data-visualization",
+              "dataviz",
+              "graphing",
+              "graphs",
+              "ipython",
+              "jupyter",
+              "jupyter-notebook",
+              "plotting",
+              "python",
+              "storytelling",
+              "vizzu"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -598,12 +1014,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google maps for Jupyter notebooks",
+            "homepage": "https://jupyter-gmaps.readthedocs.io/en/stable/",
             "id": 27371456,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-13T16:49:31Z",
+            "open_issues": 80,
             "owner": "pbugnion",
             "repo": "gmaps",
-            "stars": 766
+            "stars": 766,
+            "topics": [
+              "google-maps",
+              "jupyter",
+              "jupyter-widget",
+              "maps",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -614,12 +1041,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An elegant Python interface for visualization on the web platform to interactively generate insights into multidimensional images, point sets, and geometry.",
+            "homepage": "https://itkwidgets.readthedocs.io/",
             "id": 121581663,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-10T21:02:03Z",
+            "open_issues": 128,
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "image-analysis",
+              "imaging",
+              "insight-toolkit",
+              "itk",
+              "jupyter",
+              "jupyter-widget",
+              "jupyterlab-extension",
+              "kitware",
+              "medical-visualization",
+              "meshes",
+              "open-science",
+              "open-source",
+              "point-cloud",
+              "python",
+              "reproducible-research",
+              "scientific-computing",
+              "scientific-visualization"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -630,12 +1080,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streaming reactive and dataflow graphs in Python",
+            "homepage": null,
             "id": 147895712,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-23T11:53:24Z",
+            "open_issues": 9,
             "owner": "1kbgz",
             "repo": "tributary",
-            "stars": 465
+            "stars": 465,
+            "topics": [
+              "asynchronous",
+              "data-pipeline",
+              "kafka",
+              "lazy-evaluation",
+              "python",
+              "python-data-streams",
+              "python3",
+              "reactive-data-streams",
+              "stream",
+              "streaming",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -646,12 +1113,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cytoscape Jupyter widget",
+            "homepage": "https://ipycytoscape.readthedocs.io/en/master/",
             "id": 238460517,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-06T18:01:22Z",
+            "open_issues": 74,
             "owner": "cytoscape",
             "repo": "ipycytoscape",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "binder",
+              "cytoscape",
+              "jupyter-notebook"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -662,12 +1138,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebRTC for Jupyter notebook/lab",
+            "homepage": null,
             "id": 99951895,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-20T10:19:50Z",
+            "open_issues": 44,
             "owner": "maartenbreddels",
             "repo": "ipywebrtc",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "ipython",
+              "ipython-notebook",
+              "jupyter",
+              "jupyter-notebook",
+              "python",
+              "video-streaming",
+              "webcam",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -678,12 +1168,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "manim cell magic for IPython/Jupyter to show the output video",
+            "homepage": null,
             "id": 188053613,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T17:25:05Z",
+            "open_issues": 8,
             "owner": "krassowski",
             "repo": "jupyter-manim",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "ipython-magic",
+              "jupyer",
+              "jupyter-magic",
+              "manim"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -694,12 +1194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ backend for Jupyter interactive widgets",
+            "homepage": null,
             "id": 98531561,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-21T10:02:52Z",
+            "open_issues": 21,
             "owner": "jupyter-xeus",
             "repo": "xwidgets",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -710,12 +1215,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " The power of Chart.js with Python",
+            "homepage": "https://nicohlr.github.io/ipychart/",
             "id": 193933687,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-24T18:05:37Z",
+            "open_issues": 0,
             "owner": "nicohlr",
             "repo": "ipychart",
-            "stars": 134
+            "stars": 133,
+            "topics": [
+              "charting-library",
+              "chartjs",
+              "charts",
+              "data",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "ipywidgets",
+              "javascript-es6",
+              "jupyter",
+              "jupyter-notebook",
+              "notebook",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -726,12 +1250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tree Widget using Jupyter-widgets protocol and jsTree",
+            "homepage": null,
             "id": 148903600,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-03-16T13:04:42Z",
+            "open_issues": 32,
             "owner": "jupyter-widgets-contrib",
             "repo": "ipytree",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -742,12 +1271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ backend for the jupyter leaflet widget",
+            "homepage": null,
             "id": 127450334,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-06T13:56:06Z",
+            "open_issues": 4,
             "owner": "jupyter-xeus",
             "repo": "xleaflet",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -758,12 +1292,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ipywidgets library for drawing directed acyclic graphs in jupyterlab using dagre-d3",
+            "homepage": null,
             "id": 244054123,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T21:45:32Z",
+            "open_issues": 5,
             "owner": "timkpaine",
             "repo": "ipydagred3",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "d3",
+              "dagre",
+              "dagre-d3",
+              "graph",
+              "graphviz",
+              "ipywidget",
+              "ipywidgets",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -774,12 +1325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for drawing 2d and 3d interactive visualizations using Jupyter proxy widgets",
+            "homepage": null,
             "id": 137387365,
             "language": "Jupyter Notebook",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-07-12T14:24:16Z",
+            "open_issues": 7,
             "owner": "AaronWatters",
             "repo": "jp_doodle",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -790,12 +1346,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Demo version of IPySigma jupyter/node.js application",
+            "homepage": null,
             "id": 86470331,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-08-24T19:11:05Z",
+            "open_issues": 19,
             "owner": "bsnacks000",
             "repo": "IPySigma-Demo",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -806,12 +1367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ backend for the jupyter webrtc widget",
+            "homepage": null,
             "id": 132123416,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-09-19T17:27:57Z",
+            "open_issues": 2,
             "owner": "QuantStack",
             "repo": "xwebrtc",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -822,12 +1388,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copy a pandas DataFrame to the clipboard with one click",
+            "homepage": null,
             "id": 254963872,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-16T17:10:37Z",
+            "open_issues": 1,
             "owner": "sammycdubs",
             "repo": "pd-replicator",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "pandas"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -844,12 +1419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks",
+            "homepage": null,
             "id": 24624545,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-12T07:28:07Z",
+            "open_issues": 181,
             "owner": "quantopian",
             "repo": "qgrid",
-            "stars": 3083
+            "stars": 3084,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -860,12 +1440,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python DataFrames as Interactive DataTables",
+            "homepage": "http://itables.org/",
             "id": 181572634,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T10:24:41Z",
+            "open_issues": 40,
             "owner": "mwouts",
             "repo": "itables",
-            "stars": 972
+            "stars": 972,
+            "topics": [
+              "datatables",
+              "jupyter",
+              "pandas",
+              "polars",
+              "python",
+              "quarto",
+              "shiny",
+              "streamlit-component",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -876,12 +1471,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Datagrid widget for the Jupyter Notebook and JupyterLab",
+            "homepage": null,
             "id": 197740704,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-15T08:07:19Z",
+            "open_issues": 87,
             "owner": "jupyter-widgets",
             "repo": "ipydatagrid",
-            "stars": 642
+            "stars": 642,
+            "topics": [
+              "datagrid",
+              "datatable",
+              "grid",
+              "jupyter-notebooks",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -892,12 +1498,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter handsontable integration",
+            "homepage": null,
             "id": 96782566,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-04T06:37:51Z",
+            "open_issues": 76,
             "owner": "jupyter-widgets-contrib",
             "repo": "ipysheet",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "jupyter",
+              "spreadsheet",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -908,12 +1523,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance, editable, stylable datagrids in jupyter and jupyterlab",
+            "homepage": null,
             "id": 272550331,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T14:22:43Z",
+            "open_issues": 9,
             "owner": "finos",
             "repo": "ipyregulartable",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "data-table",
+              "data-visualization",
+              "dataframe",
+              "datagrid",
+              "ipywidgets",
+              "javascript",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "notebook",
+              "python",
+              "table",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -924,12 +1559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using ag-Grid in Jupyter notebooks.",
+            "homepage": null,
             "id": 570117301,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-04T13:04:32Z",
+            "open_issues": 24,
             "owner": "widgetti",
             "repo": "ipyaggrid",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -946,12 +1586,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",
+            "homepage": "https://jupytext.org/",
             "id": 137444487,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T01:37:42Z",
+            "open_issues": 171,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7234
+            "stars": 7235,
+            "topics": [
+              "hydrogen",
+              "jupyter-notebook",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "knitr",
+              "markdown",
+              "notebooks",
+              "python",
+              "rmarkdown",
+              "rstudio",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -962,12 +1619,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Parameterize, execute, and analyze notebooks",
+            "homepage": "http://papermill.readthedocs.io/en/latest/",
             "id": 96454557,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-06T21:18:39Z",
+            "open_issues": 196,
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6477
+            "stars": 6478,
+            "topics": [
+              "julia",
+              "jupyter",
+              "notebook",
+              "notebook-generator",
+              "notebooks",
+              "nteract",
+              "pipeline",
+              "publishing",
+              "python",
+              "r",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -978,12 +1652,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voilà turns Jupyter notebooks into standalone web applications",
+            "homepage": "https://voila.readthedocs.io",
             "id": 145574616,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T19:33:25Z",
+            "open_issues": 328,
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5939
+            "stars": 5939,
+            "topics": [
+              "dashboarding",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -994,12 +1678,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create delightful software with Jupyter Notebooks",
+            "homepage": "https://nbdev.fast.ai/",
             "id": 222507066,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T23:00:38Z",
+            "open_issues": 186,
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5314
+            "stars": 5314,
+            "topics": [
+              "conda",
+              "developer-tools",
+              "documentation-generator",
+              "documentation-tool",
+              "fastai",
+              "jupyter",
+              "jupyter-notebooks",
+              "literate-programming",
+              "nbdev",
+              "pypi",
+              "python",
+              "python-modules"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1010,12 +1712,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Impress your boss and turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.",
+            "homepage": "https://RunMercury.com",
             "id": 440184597,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:34:09Z",
+            "open_issues": 3,
             "owner": "mljar",
             "repo": "mercury",
-            "stars": 4351
+            "stars": 4351,
+            "topics": [
+              "data-science",
+              "data-visualization",
+              "jupyter",
+              "jupyter-lab",
+              "jupyter-notebook",
+              "mercury",
+              "mljar-mercury",
+              "notebook",
+              "notebook-application",
+              "notebook-jupyter",
+              "notebook-publish",
+              "notebook-web",
+              "notebooks-jupyter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1026,12 +1748,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create beautiful, publication-quality books and documents from computational content.",
+            "homepage": "https://jupyterbook.org",
             "id": 137292803,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-08T16:10:16Z",
+            "open_issues": 668,
             "owner": "jupyter-book",
             "repo": "jupyter-book",
-            "stars": 4273
+            "stars": 4273,
+            "topics": [
+              "documentation-generator",
+              "jupyter",
+              "markdown",
+              "notebooks",
+              "scientific-writing"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1042,12 +1775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RISE: \"Live\" Reveal.js Jupyter/IPython Slideshow Extension",
+            "homepage": null,
             "id": 12387090,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-29T13:51:07Z",
+            "open_issues": 162,
             "owner": "damianavila",
             "repo": "RISE",
-            "stars": 3737
+            "stars": 3737,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1058,12 +1796,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
+            "homepage": "https://docs.ploomber.io",
             "id": 235190220,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-29T22:02:03Z",
+            "open_issues": 110,
             "owner": "ploomber",
             "repo": "ploomber",
-            "stars": 3622
+            "stars": 3621,
+            "topics": [
+              "data-engineering",
+              "data-science",
+              "jupyter",
+              "jupyter-notebooks",
+              "machine-learning",
+              "mlops",
+              "notebooks",
+              "papermill",
+              "pipelines",
+              "pycharm",
+              "vscode",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1074,12 +1830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown <=> IPython Notebook",
+            "homepage": null,
             "id": 16920686,
             "language": "Jupyter Notebook",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-10-18T21:21:21Z",
+            "open_issues": 46,
             "owner": "aaren",
             "repo": "notedown",
-            "stars": 859
+            "stars": 859,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1090,12 +1851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Notebooks as plain Python code with embedded Markdown text",
+            "homepage": null,
             "id": 110680312,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-07T15:27:20Z",
+            "open_issues": 0,
             "owner": "elehcimd",
             "repo": "pynb",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1106,12 +1872,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JupyterHub extension for ContainDS Dashboards",
+            "homepage": "https://cdsdashboards.readthedocs.io/",
             "id": 259650645,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-15T16:17:28Z",
+            "open_issues": 0,
             "owner": "ideonate",
             "repo": "cdsdashboards",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "bokeh",
+              "data-science",
+              "jupyter",
+              "jupyterhub",
+              "panel",
+              "plotly-dash",
+              "rshiny",
+              "streamlit",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1122,12 +1903,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render Jupyter notebook in the terminal",
+            "homepage": null,
             "id": 349153026,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-23T20:55:06Z",
+            "open_issues": 12,
             "owner": "kracekumar",
             "repo": "jut",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "cli",
+              "jupyter-notebook",
+              "python",
+              "python-rich"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1138,12 +1929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that supports one-button reproducible workflows with the Jupyter Notebook and Scons.",
+            "homepage": null,
             "id": 54997946,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-10-09T19:56:01Z",
+            "open_issues": 4,
             "owner": "jhamrick",
             "repo": "nbflow",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1154,12 +1950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to use a collection of notebooks as 'chapters'",
+            "homepage": null,
             "id": 64857538,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-04T22:13:04Z",
+            "open_issues": 16,
             "owner": "takluyver",
             "repo": "bookbook",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1170,12 +1971,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple helper library with 2 NBConvert exporters for PDF/HTML export with no code cells",
+            "homepage": null,
             "id": 263327929,
             "language": "Jinja",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:18:01Z",
+            "open_issues": 0,
             "owner": "timkpaine",
             "repo": "jupyterlab-nbconvert-nocode",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "nbconvert",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1186,12 +1997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Notebook Utility",
+            "homepage": null,
             "id": 86542739,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-28T17:04:07Z",
+            "open_issues": 0,
             "owner": "conery",
             "repo": "nbscan",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1202,12 +2018,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert .rst to .ipynb",
+            "homepage": null,
             "id": 42964441,
             "language": "TeX",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-10-04T17:39:02Z",
+            "open_issues": 0,
             "owner": "nthiery",
             "repo": "rst-to-ipynb",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1218,12 +2039,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search your Jupyter notebook files (.ipynb) from bash.",
+            "homepage": null,
             "id": 239854510,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-27T16:25:45Z",
+            "open_issues": 0,
             "owner": "gitjeff05",
             "repo": "kapitsa",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "bash",
+              "ipynb",
+              "jq",
+              "jupyter",
+              "jupyter-notebooks",
+              "notebook-files",
+              "shell-script"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1234,12 +2068,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Store,Version and Run jupyter notebook via ReST api",
+            "homepage": null,
             "id": 374363825,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-08T01:44:33Z",
+            "open_issues": 2,
             "owner": "manugraj",
             "repo": "ganimede",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "fastapi",
+              "jupyter",
+              "jupyter-notebook",
+              "papermill",
+              "poetry",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -1256,12 +2102,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for diffing and merging of Jupyter notebooks.",
+            "homepage": "http://nbdime.readthedocs.io",
             "id": 46264628,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-10T10:12:19Z",
+            "open_issues": 96,
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2841
+            "stars": 2841,
+            "topics": [
+              "diff",
+              "diffing",
+              "git",
+              "hg",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab-extension",
+              "mercurial",
+              "merge",
+              "merge-driver",
+              "mergetool",
+              "vcs",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1272,12 +2137,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git extension for JupyterLab",
+            "homepage": null,
             "id": 94917848,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T06:16:54Z",
+            "open_issues": 145,
             "owner": "jupyterlab",
             "repo": "jupyterlab-git",
-            "stars": 1610
+            "stars": 1610,
+            "topics": [
+              "git",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1288,12 +2162,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks",
+            "homepage": "https://nbqa.readthedocs.io/en/latest/index.html",
             "id": 278889378,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:31:20Z",
+            "open_issues": 22,
             "owner": "nbQA-dev",
             "repo": "nbQA",
-            "stars": 1204
+            "stars": 1204,
+            "topics": [
+              "black",
+              "codequality",
+              "doctest",
+              "flake8",
+              "isort",
+              "jupyter-notebook",
+              "lint",
+              "mypy",
+              "pre-commit",
+              "pre-commit-hook",
+              "pylint",
+              "python",
+              "pyupgrade",
+              "ruff",
+              "yapf"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1304,12 +2199,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool to reduce the friction between data scientists by reducing git conflicts removing notebook metadata and gracefully resolving git conflicts.",
+            "homepage": "https://databooks.dev/",
             "id": 437109847,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-25T14:23:45Z",
+            "open_issues": 9,
             "owner": "datarootsio",
             "repo": "databooks",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "cli",
+              "git",
+              "helper-tool",
+              "jupyter-notebook",
+              "pydantic",
+              "rich",
+              "typer"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1320,12 +2228,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency management and optimization in Jupyter Notebooks",
+            "homepage": null,
             "id": 193650988,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-29T09:18:17Z",
+            "open_issues": 12,
             "owner": "thoth-station",
             "repo": "jupyter-nbrequirements",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "dependency-manager",
+              "hacktoberfest",
+              "jupyter",
+              "jupyter-notebooks",
+              "notebook",
+              "package-management"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -1342,12 +2262,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source extension that connects AI agents to computational notebooks in JupyterLab.",
+            "homepage": "https://jupyter-ai.readthedocs.io/",
             "id": 599781179,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:01:26Z",
+            "open_issues": 302,
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
-            "stars": 4384
+            "stars": 4384,
+            "topics": [
+              "acp",
+              "agents",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1358,12 +2289,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elyra extends JupyterLab with an AI centric approach.",
+            "homepage": "https://elyra.readthedocs.io/en/stable/",
             "id": 216914329,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T16:36:12Z",
+            "open_issues": 262,
             "owner": "elyra-ai",
             "repo": "elyra",
-            "stars": 1996
+            "stars": 1996,
+            "topics": [
+              "ai",
+              "airflow",
+              "anaconda",
+              "apache-airflow",
+              "binder",
+              "docker",
+              "elyra",
+              "hacktoberfest",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-extensions",
+              "jupyterlab-notebooks",
+              "kubeflow",
+              "kubeflow-pipelines",
+              "machine-learning",
+              "notebook-jupyter",
+              "notebooks",
+              "pipelines",
+              "pypi",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1374,12 +2331,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "visual data prep powered by python",
+            "homepage": "https://amphi.ai",
             "id": 774759366,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T01:43:02Z",
+            "open_issues": 127,
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1400
+            "stars": 1400,
+            "topics": [
+              "analytics-automation",
+              "data",
+              "data-analysis",
+              "data-pipelines",
+              "data-preparation",
+              "data-science",
+              "datatransformation",
+              "etl",
+              "structured-data",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1390,12 +2363,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variable Inspector extension for Jupyterlab",
+            "homepage": null,
             "id": 137253934,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-17T17:30:53Z",
+            "open_issues": 68,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-variableInspector",
-            "stars": 1168
+            "stars": 1168,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-variableinspector",
+              "variable-inspector"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1406,12 +2389,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":neckbeard: Vim notebook cell bindings for JupyterLab",
+            "homepage": null,
             "id": 112877413,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-05T12:21:41Z",
+            "open_issues": 70,
             "owner": "jwkvam",
             "repo": "jupyterlab-vim",
-            "stars": 981
+            "stars": 981,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-vim",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1422,12 +2415,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JupyterLab plugin to facilitate invocation of code formatters.",
+            "homepage": "https://jupyterlab-code-formatter.readthedocs.io/",
             "id": 144499900,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T07:11:43Z",
+            "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "autopep8",
+              "black",
+              "code-formatter",
+              "jupyterlab-extension",
+              "jupyterlab-extensions",
+              "python",
+              "r",
+              "yapf"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1438,12 +2445,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Table of Contents extension for JupyterLab",
+            "homepage": null,
             "id": 124914240,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-07-07T04:18:47Z",
+            "open_issues": 75,
             "owner": "jupyterlab",
             "repo": "jupyterlab-toc",
-            "stars": 728
+            "stars": 728,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1454,12 +2470,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab extension for live editing of LaTeX documents",
+            "homepage": null,
             "id": 108065356,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-17T09:34:48Z",
+            "open_issues": 32,
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
-            "stars": 686
+            "stars": 686,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "latex",
+              "pdf"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1470,12 +2496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.",
+            "homepage": "https://lineapy.org",
             "id": 390514853,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-22T22:58:04Z",
+            "open_issues": 51,
             "owner": "LineaLabs",
             "repo": "lineapy",
-            "stars": 672
+            "stars": 672,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1486,12 +2517,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab",
+            "homepage": null,
             "id": 119714147,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-25T13:25:21Z",
+            "open_issues": 54,
             "owner": "QuantStack",
             "repo": "jupyterlab-drawio",
-            "stars": 623
+            "stars": 623,
+            "topics": [
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1502,12 +2540,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Break the linear presentation of Jupyter Notebooks with sticky cells!",
+            "homepage": "https://xiaohk.github.io/stickyland/",
             "id": 423897163,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-12-24T03:19:25Z",
+            "open_issues": 5,
             "owner": "xiaohk",
             "repo": "stickyland",
-            "stars": 568
+            "stars": 568,
+            "topics": [
+              "dashboard",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "notebook"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1518,12 +2567,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A visual debugger for Jupyter notebooks, consoles, and source files",
+            "homepage": null,
             "id": 197822581,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-03-15T11:03:46Z",
+            "open_issues": 31,
             "owner": "jupyterlab",
             "repo": "debugger",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1534,12 +2592,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL GUI for JupyterLab",
+            "homepage": null,
             "id": 168674852,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T04:02:41Z",
+            "open_issues": 57,
             "owner": "pbugnion",
             "repo": "jupyterlab-sql",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "database",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1550,12 +2618,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for jupyter notebook templates in jupyterlab",
+            "homepage": null,
             "id": 125671008,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T14:21:51Z",
+            "open_issues": 9,
             "owner": "finos",
             "repo": "jupyterlab_templates",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "data-science",
+              "dataviz",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "machine-learning",
+              "notebook"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1566,12 +2647,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cloud storage for JupyterLab using Google Drive",
+            "homepage": null,
             "id": 76697406,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-08-03T16:55:22Z",
+            "open_issues": 0,
             "owner": "jupyterlab",
             "repo": "jupyterlab-google-drive",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "google-drive",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1582,12 +2672,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black.",
+            "homepage": null,
             "id": 145418185,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-28T14:20:59Z",
+            "open_issues": 24,
             "owner": "dnanhkhoa",
             "repo": "nb_black",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "black",
+              "black-beautifier",
+              "black-formatter",
+              "codeformatter",
+              "jupyter-notebook-extension",
+              "jupyter-notebook-formatter",
+              "jupyterlab-extension",
+              "yapf"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1598,12 +2702,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JupyterLab extension to display system metrics",
+            "homepage": null,
             "id": 196719467,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-07-28T15:17:36Z",
+            "open_issues": 0,
             "owner": "jtpio",
             "repo": "jupyterlab-system-monitor",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1614,12 +2727,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab extension visualize data with Voyager",
+            "homepage": null,
             "id": 101495888,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-06T19:48:00Z",
+            "open_issues": 63,
             "owner": "altair-viz",
             "repo": "jupyterlab_voyager",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "vega"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1630,12 +2752,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sidecar output widget for JupyterLab",
+            "homepage": null,
             "id": 126804833,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-15T18:56:36Z",
+            "open_issues": 31,
             "owner": "jupyter-widgets",
             "repo": "jupyterlab-sidecar",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1646,12 +2775,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A filesystem-like contents manager for multiple backends in Jupyter",
+            "homepage": null,
             "id": 210663275,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-01T00:57:12Z",
+            "open_issues": 27,
             "owner": "jpmorganchase",
             "repo": "jupyter-fs",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "jupyter",
+              "jupyter-lab",
+              "jupyter-notebook",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1662,12 +2802,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Navigate to variable's definition with a click in JupyterLab (or with a few key strokes)",
+            "homepage": "https://www.npmjs.com/package/@krassowski/jupyterlab_go_to_definition",
             "id": 162771624,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-08-23T19:48:16Z",
+            "open_issues": 11,
             "owner": "krassowski",
             "repo": "jupyterlab-go-to-definition",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "binder",
+              "binder-ready",
+              "go-to-definition",
+              "ide-features",
+              "jupyter-lab",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1678,12 +2833,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A handsome Darcula theme for Jupyterlab. The first jlab theme to include dark scrollbars",
+            "homepage": null,
             "id": 166749179,
             "language": "CSS",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-06-06T08:38:20Z",
+            "open_issues": 22,
             "owner": "telamonian",
             "repo": "theme-darcula",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "darcula",
+              "darcula-theme",
+              "dark-scrollbars",
+              "jupyter",
+              "jupyter-theme",
+              "jupyterlab",
+              "jupyterlab-2",
+              "jupyterlab-3",
+              "jupyterlab-4",
+              "jupyterlab-extension",
+              "jupyterlab-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1694,12 +2867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol",
+            "homepage": null,
             "id": 527770702,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T18:33:26Z",
+            "open_issues": 3,
             "owner": "krassowski",
             "repo": "jupyterlab-lsp",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1710,12 +2888,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night",
+            "homepage": null,
             "id": 273102090,
             "language": "CSS",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T15:22:15Z",
+            "open_issues": 0,
             "owner": "timkpaine",
             "repo": "jupyterlab_miami_nights",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-extensions",
+              "jupyterlab-theme"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1726,12 +2914,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View html as an embedded iframe in JupyterLab",
+            "homepage": null,
             "id": 124823433,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:15:48Z",
+            "open_issues": 4,
             "owner": "timkpaine",
             "repo": "jupyterlab-iframe",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "jlab",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1742,12 +2940,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A JupyterLab extension for notebook cell tags",
+            "homepage": null,
             "id": 137811251,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-04-29T18:27:31Z",
+            "open_issues": 12,
             "owner": "jupyterlab",
             "repo": "jupyterlab-celltags",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1758,12 +2961,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorboard extension for Jupyterlab all in one",
+            "homepage": null,
             "id": 513527933,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-29T19:50:21Z",
+            "open_issues": 9,
             "owner": "HFAiLab",
             "repo": "jupyterlab_tensorboard_pro",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "tensorboard",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1774,12 +2987,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly open a file in JupyterLab by typing part of its name",
+            "homepage": null,
             "id": 160274963,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-11T14:15:47Z",
+            "open_issues": 6,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-quickopen",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1790,12 +3012,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically version jupyter notebooks in JupyterLab",
+            "homepage": "https://jupyterlab-autoversion.readthedocs.io",
             "id": 145919273,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:18:02Z",
+            "open_issues": 5,
             "owner": "timkpaine",
             "repo": "jupyterlab-autoversion",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1806,12 +3037,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add arbitrary python commands to the jupyterlab command palette",
+            "homepage": "https://jupyterlab-commands.readthedocs.io",
             "id": 143177684,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T16:20:56Z",
+            "open_issues": 1,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1822,12 +3062,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab extension to explore CPython Bytecode",
+            "homepage": null,
             "id": 150898312,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-01-03T15:16:54Z",
+            "open_issues": 22,
             "owner": "jtpio",
             "repo": "jupyterlab-python-bytecode",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1838,12 +3087,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyterlab extension to show notebook cell completion notifications",
+            "homepage": null,
             "id": 332545154,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-11-15T15:35:44Z",
+            "open_issues": 6,
             "owner": "mwakaba2",
             "repo": "jupyterlab-notifications",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "browser-notifications",
+              "code-execution",
+              "email-notifications",
+              "jupyter",
+              "jupyter-notifications",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-notifications",
+              "labextension",
+              "mobile-notification",
+              "mobile-notifications",
+              "notification",
+              "slack-notifications",
+              "telegram",
+              "telegram-notification"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1854,12 +3124,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jupyterlab extension to email notebooks directly from JupyterLab.",
+            "homepage": null,
             "id": 143883226,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:15:49Z",
+            "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "email",
+              "email-notebooks",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1870,12 +3151,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A JupyterLab extension for managing keyboard shortcuts",
+            "homepage": null,
             "id": 137811661,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-08-08T06:52:04Z",
+            "open_issues": 0,
             "owner": "jupyterlab",
             "repo": "jupyterlab-shortcutui",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1886,12 +3172,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JupyterLab client for Tabnine. https://pypi.org/project/jupyterlab-tabnine/",
+            "homepage": "https://www.tabnine.com/install/jupyterlab",
             "id": 396780580,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-07-21T16:20:44Z",
+            "open_issues": 26,
             "owner": "codota",
             "repo": "tabnine-jupyterlab",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "autocomplete",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python",
+              "tabnine"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1902,12 +3200,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GPU Environment Management for JupyterLab",
+            "homepage": null,
             "id": 539549415,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-19T11:37:31Z",
+            "open_issues": 6,
             "owner": "run-ai",
             "repo": "jupyterlab_genv",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "gpu",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1918,12 +3226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab extension to execute the scripts from the file browser",
+            "homepage": null,
             "id": 325326897,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-09-10T20:15:25Z",
+            "open_issues": 3,
             "owner": "gavincyi",
             "repo": "jupyterlab-executor",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1934,12 +3247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Server Proxy for Panel",
+            "homepage": null,
             "id": 204044560,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-23T10:46:58Z",
+            "open_issues": 6,
             "owner": "holoviz",
             "repo": "jupyter-panel-proxy",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1950,12 +3268,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JupyterLab extension to jump to the line in the file of the stack trace, search Google for the error in Stack Overflow, or ask Bing Chat for help.",
+            "homepage": null,
             "id": 684115434,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-09-18T17:05:27Z",
+            "open_issues": 0,
             "owner": "teticio",
             "repo": "jupyter-stack-trace",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "bingchat",
+              "jupyterlab-extension",
+              "stackoverflow",
+              "stacktrace"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1966,12 +3294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab Top Bar extension",
+            "homepage": null,
             "id": 372574371,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-23T12:48:27Z",
+            "open_issues": 0,
             "owner": "jtpio",
             "repo": "jupyterlab-topbar",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -1982,12 +3315,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyterlab extension to publish to Kyso",
+            "homepage": "https://kyso.io",
             "id": 146310674,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-09-25T12:44:08Z",
+            "open_issues": 18,
             "owner": "kyso-io",
             "repo": "jupyterlab-extension",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "jupyterlab-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -2004,12 +3344,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data validation toolkit for assessing and monitoring data quality.",
+            "homepage": "https://posit-dev.github.io/pointblank/",
             "id": 877613792,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:13:01Z",
+            "open_issues": 28,
             "owner": "posit-dev",
             "repo": "pointblank",
-            "stars": 488
+            "stars": 489,
+            "topics": [
+              "data-quality",
+              "data-testing",
+              "data-validation",
+              "easy-to-understand",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2020,12 +3371,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A py.test plugin to validate Jupyter notebooks",
+            "homepage": null,
             "id": 33660979,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-17T08:10:44Z",
+            "open_issues": 55,
             "owner": "computationalmodelling",
             "repo": "nbval",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "ipython-notebook",
+              "jupyter-notebook",
+              "pytest",
+              "pytest-plugin",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2036,12 +3399,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytest in IPython notebooks.",
+            "homepage": null,
             "id": 51264625,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-16T18:16:37Z",
+            "open_issues": 4,
             "owner": "chmp",
             "repo": "ipytest",
-            "stars": 336
+            "stars": 336,
+            "topics": [
+              "ipython-notebook",
+              "jupyter-notebook",
+              "pytest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2052,12 +3425,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to use test framework for Jupyter Notebooks",
+            "homepage": "https://reviewnb.com",
             "id": 178426444,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-04T11:15:43Z",
+            "open_issues": 5,
             "owner": "ReviewNB",
             "repo": "treon",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "jupyter-notebooks",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2068,12 +3449,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GitHub Action for testing notebooks",
+            "homepage": null,
             "id": 238724781,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-21T08:52:43Z",
+            "open_issues": 0,
             "owner": "treebeardtech",
             "repo": "nbmake-action",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "action",
+              "notebook",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2084,12 +3474,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cell-by-cell testing for production Jupyter notebooks in JupyterLab",
+            "homepage": null,
             "id": 145919397,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T07:36:07Z",
+            "open_issues": 36,
             "owner": "jpmorganchase",
             "repo": "nbcelltests",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "jpmorganchase",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyter-notebooks",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "papermill",
+              "pytest",
+              "testing",
+              "unittesting"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2100,12 +3506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a nose plugin for finding and running IPython notebooks as nose tests",
+            "homepage": null,
             "id": 30734725,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-02-17T10:25:49Z",
+            "open_issues": 12,
             "owner": "bollwyvl",
             "repo": "nosebook",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2116,12 +3527,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Sphinx Extension for Generating Jupyter Notebooks",
+            "homepage": null,
             "id": 106642829,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-09T23:23:04Z",
+            "open_issues": 97,
             "owner": "QuantEcon",
             "repo": "sphinxcontrib-jupyter",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "sphinx-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -2138,12 +3556,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Jupyter notebook extension for geospatial visualization and analysis",
+            "homepage": null,
             "id": 64249762,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-21T15:53:04Z",
+            "open_issues": 39,
             "owner": "OpenGeoscience",
             "repo": "geonotebook",
-            "stars": 1086
+            "stars": 1086,
+            "topics": [
+              "analysis",
+              "jupyter",
+              "jupyter-notebook-extension",
+              "mapnik",
+              "notebook",
+              "opengeoscience",
+              "python",
+              "tile-server"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2154,12 +3586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations",
+            "homepage": null,
             "id": 101499621,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-12T03:10:45Z",
+            "open_issues": 5,
             "owner": "parrt",
             "repo": "lolviz",
-            "stars": 837
+            "stars": 837,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2170,12 +3607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python game programming in Jupyter notebooks.",
+            "homepage": "https://jupylet.readthedocs.io",
             "id": 233240141,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-01-22T16:39:18Z",
+            "open_issues": 10,
             "owner": "nir",
             "repo": "jupylet",
-            "stars": 252
+            "stars": 252,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2186,12 +3628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository has been moved to https://github.com/vpython/vpython-jupyter",
+            "homepage": null,
             "id": 45709332,
             "language": null,
+            "license": null,
             "last_commit": "2019-05-21T21:34:52Z",
+            "open_issues": 12,
             "owner": "BruceSherwood",
             "repo": "vpython-jupyter",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2202,12 +3649,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xonsh Jupyter kernel allows to run Xonsh shell code in Jupyter, JupyterLab, Euporie, etc.",
+            "homepage": null,
             "id": 471969357,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:21:14Z",
+            "open_issues": 3,
             "owner": "xonsh",
             "repo": "xontrib-jupyter",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "euporie",
+              "jupyter",
+              "jupyter-extension",
+              "jupyter-kernels",
+              "jupyter-lab",
+              "jupyter-notebook",
+              "jupyter-notebook-extension",
+              "jupyter-notebooks",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-notebooks",
+              "jupyterlab-shell",
+              "notebook",
+              "xonsh",
+              "xontrib"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -2224,12 +3692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter metapackage for installation and documentation",
+            "homepage": "https://jupyter.readthedocs.io/",
             "id": 36895421,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
+            "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15350,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -2246,12 +3719,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+            "homepage": null,
             "id": 83516498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-28T01:30:25Z",
+            "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24403
+            "stars": 24403,
+            "topics": [
+              "demonstrate-skills",
+              "practice",
+              "programming",
+              "python",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2262,12 +3746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter metapackage for installation and documentation",
+            "homepage": "https://jupyter.readthedocs.io/",
             "id": 36895421,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
+            "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15350,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2278,12 +3767,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Jupyter Notebook Themes",
+            "homepage": null,
             "id": 27844645,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-06-22T15:37:46Z",
+            "open_issues": 205,
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9818
+            "stars": 9818,
+            "topics": [
+              "css",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyter-themes",
+              "syntax-highlighting",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2294,12 +3795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lectures on scientific computing with python, as IPython notebooks.",
+            "homepage": null,
             "id": 6920160,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-06-02T22:19:39Z",
+            "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3649
+            "stars": 3649,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2310,12 +3816,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..",
+            "homepage": "https://naas.ai/search",
             "id": 299951448,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-10-21T10:10:48Z",
+            "open_issues": 116,
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3015
+            "stars": 3015,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "hacktoberfest2023",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab",
+              "naas",
+              "notebooks-templates",
+              "opensource",
+              "python",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2326,12 +3850,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Interactive Web Plotting with Bokeh in IPython notebook",
+            "homepage": null,
             "id": 21578345,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-10-20T02:04:34Z",
+            "open_issues": 0,
             "owner": "bokeh",
             "repo": "bokeh-notebooks",
-            "stars": 733
+            "stars": 733,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2342,12 +3871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Growing the code out of your notebooks - the right way. ",
+            "homepage": "https://guillaume-chevalier.com/how-to-grow-neat-software-architecture-out-of-jupyter-notebooks/",
             "id": 152854964,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-06T17:58:49Z",
+            "open_issues": 1,
             "owner": "guillaume-chevalier",
             "repo": "How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks",
-            "stars": 529
+            "stars": 529,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         },
@@ -2358,12 +3892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides and materials for various talks I've given",
+            "homepage": null,
             "id": 123181026,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-12-21T08:17:12Z",
+            "open_issues": 0,
             "owner": "markusschanta",
             "repo": "talks",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
         }
@@ -2372,15 +3911,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:53:17.334Z",
+    "last_updated": "2026-08-29T04:17:38.527Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Jupyter projects, libraries and resources",
+      "homepage": null,
       "id": 101582879,
       "language": null,
-      "last_commit": "2026-08-28T02:24:47Z",
+      "license": "CC-BY-SA-4.0",
+      "last_commit": "2026-08-28T23:57:55Z",
+      "open_issues": 17,
       "owner": "markusschanta",
       "repo": "awesome-jupyter",
-      "stars": 4663
+      "stars": 4663,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data-science",
+        "data-visualization",
+        "frontend",
+        "ipython",
+        "jupyter",
+        "jupyter-notebook",
+        "jupyterhub",
+        "jupyterlab",
+        "jupyterlab-extension",
+        "python",
+        "visualization"
+      ]
     },
     "original_repository_sha": "62178578fed55a97986dc567b8d58fe7fa58de14",
     "enhanced_repository": "enhansome/enhansome-jupyter",
