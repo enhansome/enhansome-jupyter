@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T16:59:27Z",
-            "open_issues": 2599,
+            "open_issues": 2600,
             "owner": "jupyterlab",
             "repo": "jupyterlab",
             "stars": 15275,
@@ -69,7 +69,7 @@
             "open_issues": 8,
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8461,
+            "stars": 8462,
             "topics": [
               "docker",
               "ipython",
@@ -150,7 +150,7 @@
             "id": 145848899,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T21:42:51Z",
+            "last_commit": "2026-08-29T09:49:33Z",
             "open_issues": 1114,
             "owner": "holoviz",
             "repo": "panel",
@@ -287,7 +287,7 @@
             "open_issues": 34,
             "owner": "Kaggle",
             "repo": "docker-python",
-            "stars": 2731,
+            "stars": 2732,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
@@ -356,7 +356,7 @@
             "id": 1155631492,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T13:24:16Z",
+            "last_commit": "2026-08-29T09:40:08Z",
             "open_issues": 32,
             "owner": "nteract",
             "repo": "nteract",
@@ -714,7 +714,7 @@
             "open_issues": 4,
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15777,
+            "stars": 15776,
             "topics": [
               "echarts",
               "python"
@@ -735,7 +735,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:31:56Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "perspective-dev",
             "repo": "perspective",
             "stars": 11140,
@@ -2108,7 +2108,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-10T10:12:19Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "jupyter",
             "repo": "nbdime",
             "stars": 2841,
@@ -2267,7 +2267,7 @@
             "id": 599781179,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T09:01:26Z",
+            "last_commit": "2026-08-29T06:03:15Z",
             "open_issues": 302,
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
@@ -2340,7 +2340,7 @@
             "open_issues": 127,
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "analytics-automation",
               "data",
@@ -3728,7 +3728,7 @@
             "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24403,
+            "stars": 24404,
             "topics": [
               "demonstrate-skills",
               "practice",
@@ -3911,7 +3911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:17:38.527Z",
+    "last_updated": "2026-08-29T11:19:25.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Jupyter projects, libraries and resources",
