@@ -51,7 +51,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Runtimes/Frontends
 
-* [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,336 | 🐛 2,632 | 🌐 TypeScript | 📅 2026-10-06 - JupyterLab is the next generation user interface for Jupyter.
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,336 | 🐛 2,629 | 🌐 TypeScript | 📅 2026-10-06 - JupyterLab is the next generation user interface for Jupyter.
 * [Jupyter Notebook](https://github.com/jupyter/notebook) ⭐ 13,415 | 🐛 1,890 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Main Jupyter notebook runtime.
 * [docker-stacks](https://github.com/jupyter/docker-stacks) ⭐ 8,469 | 🐛 10 | 🌐 Python | 📅 2026-10-06 - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,351 | 🐛 203 | 🌐 Python | 📅 2026-10-05 - Multi-user server for Jupyter.
@@ -90,9 +90,9 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Visualization
 
 * [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,352 | 🐛 648 | 🌐 Python | 📅 2026-10-05 - Fast, extensible progress bar for loops and iterables.
-* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,773 | 🐛 5 | 🌐 Python | 📅 2026-08-04 - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) ⭐ 67,459 | 🐛 1,488 | 🌐 TypeScript | 📅 2026-10-04 visualization library.
+* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,773 | 🐛 5 | 🌐 Python | 📅 2026-08-04 - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) ⭐ 67,458 | 🐛 1,488 | 🌐 TypeScript | 📅 2026-10-04 visualization library.
 * [Perspective](https://github.com/finos/perspective) ⭐ 11,278 | 🐛 37 | 🌐 Rust | 📅 2026-10-03 - Data visualization and analytics component, especially for large/streaming datasets.
-* [Altair](https://github.com/altair-viz/altair) ⭐ 10,494 | 🐛 160 | 🌐 Python | 📅 2026-10-06 - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite) ⭐ 5,504 | 🐛 816 | 🌐 TypeScript | 📅 2026-10-05.
+* [Altair](https://github.com/altair-viz/altair) ⭐ 10,494 | 🐛 161 | 🌐 Python | 📅 2026-10-06 - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite) ⭐ 5,504 | 🐛 816 | 🌐 TypeScript | 📅 2026-10-05.
 * [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,969 | 🐛 324 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Interactive reports to analyze machine learning models during validation or production monitoring.
 * [lux](https://github.com/lux-org/lux) ⭐ 5,380 | 🐛 90 | 🌐 Python | 📅 2024-03-20 - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,693 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - Grammar of Graphics-based interactive plotting framework for Jupyter.
@@ -108,7 +108,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 * [tributary](https://github.com/timkpaine/tributary) ⭐ 466 | 🐛 9 | 🌐 Python | 📅 2026-06-23 - Python data streams with Jupyter support.
 * [ipycytoscape](https://github.com/cytoscape/ipycytoscape) ⭐ 290 | 🐛 74 | 🌐 Python | 📅 2026-10-05 - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
 * [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) ⭐ 253 | 🐛 44 | 🌐 JavaScript | 📅 2024-02-20 - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
-* [jupyter-manim](https://github.com/krassowski/jupyter-manim) ⭐ 199 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - Display [manim](https://github.com/3b1b/manim) ⭐ 94,660 | 🐛 502 | 🌐 Python | 📅 2026-09-09 (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+* [jupyter-manim](https://github.com/krassowski/jupyter-manim) ⭐ 199 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - Display [manim](https://github.com/3b1b/manim) ⭐ 94,662 | 🐛 503 | 🌐 Python | 📅 2026-09-09 (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
 * [xwidgets](https://github.com/QuantStack/xwidgets) ⭐ 147 | 🐛 21 | 🌐 C++ | 📅 2026-09-30 - C++ Backend for ipywidgets.
 * [ipychart](https://github.com/nicohlr/ipychart) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2024-08-24 - Interactive Chart.js plots in Jupyter.
 * [ipytree](https://github.com/QuantStack/ipytree/) ⭐ 133 | 🐛 32 | 🌐 CSS | 📅 2026-03-16 - Tree UI element for Jupyter.

@@ -15,8 +15,8 @@
             "id": 60374819,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T08:09:31Z",
-            "open_issues": 2632,
+            "last_commit": "2026-10-06T11:24:19Z",
+            "open_issues": 2629,
             "owner": "jupyterlab",
             "repo": "jupyterlab",
             "stars": 15336,
@@ -806,7 +806,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-06T02:16:34Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "vega",
             "repo": "altair",
             "stars": 10494,
@@ -4155,7 +4155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:43:08.244Z",
+    "last_updated": "2026-10-06T11:27:45.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Jupyter projects, libraries and resources",
