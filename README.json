@@ -15,11 +15,11 @@
             "id": 60374819,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T20:30:59Z",
-            "open_issues": 2645,
+            "last_commit": "2026-10-23T15:10:33Z",
+            "open_issues": 2643,
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15372,
+            "stars": 15371,
             "topics": [
               "jupyter",
               "jupyterlab"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-20T07:09:00Z",
-            "open_issues": 1890,
+            "open_issues": 1892,
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13457,
+            "stars": 13458,
             "topics": [
               "closember",
               "jupyter",
@@ -98,10 +98,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-22T16:06:42Z",
-            "open_issues": 204,
+            "open_issues": 205,
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8363,
+            "stars": 8362,
             "topics": [
               "ipython",
               "jupyter-notebook",
@@ -150,11 +150,11 @@
             "id": 145848899,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T15:53:00Z",
-            "open_issues": 875,
+            "last_commit": "2026-10-24T08:46:44Z",
+            "open_issues": 874,
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5799,
+            "stars": 5800,
             "topics": [
               "bokeh",
               "control-panels",
@@ -219,7 +219,7 @@
             "open_issues": 171,
             "owner": "jupyterlab",
             "repo": "jupyterlab-desktop",
-            "stars": 4335,
+            "stars": 4337,
             "topics": [
               "jupyter",
               "jupyter-notebook",
@@ -337,7 +337,7 @@
             "open_issues": 148,
             "owner": "stencila",
             "repo": "stencila",
-            "stars": 910,
+            "stars": 912,
             "topics": [
               "document",
               "executable",
@@ -385,7 +385,7 @@
             "id": 1155631492,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T09:05:26Z",
+            "last_commit": "2026-10-24T07:48:56Z",
             "open_issues": 50,
             "owner": "nteract",
             "repo": "nteract",
@@ -698,7 +698,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T22:54:41Z",
-            "open_issues": 667,
+            "open_issues": 670,
             "owner": "tqdm",
             "repo": "tqdm",
             "stars": 31361,
@@ -743,7 +743,7 @@
             "open_issues": 5,
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15779,
+            "stars": 15780,
             "topics": [
               "echarts",
               "python"
@@ -763,11 +763,11 @@
             "id": 109291007,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T05:49:47Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-24T01:56:05Z",
+            "open_issues": 32,
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11340,
+            "stars": 11342,
             "topics": [
               "analytics",
               "apache-arrow",
@@ -806,10 +806,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-21T20:22:50Z",
-            "open_issues": 162,
+            "open_issues": 165,
             "owner": "vega",
             "repo": "altair",
-            "stars": 10502,
+            "stars": 10501,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
@@ -827,10 +827,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-29T08:32:43Z",
-            "open_issues": 349,
+            "open_issues": 348,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 8001,
+            "stars": 8004,
             "topics": [
               "data-drift",
               "data-quality",
@@ -866,7 +866,7 @@
             "open_issues": 90,
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5379,
+            "stars": 5378,
             "topics": [
               "data-science",
               "exploratory-data-analysis",
@@ -1440,7 +1440,7 @@
             "open_issues": 44,
             "owner": "flex-analytics",
             "repo": "flexviz",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "agent",
               "ai-agents",
@@ -1795,7 +1795,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-05T23:30:41Z",
-            "open_issues": 197,
+            "open_issues": 198,
             "owner": "nteract",
             "repo": "papermill",
             "stars": 6496,
@@ -1891,7 +1891,7 @@
             "open_issues": 4,
             "owner": "mljar",
             "repo": "mercury",
-            "stars": 4358,
+            "stars": 4359,
             "topics": [
               "data-science",
               "data-visualization",
@@ -1924,7 +1924,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-20T18:48:27Z",
-            "open_issues": 672,
+            "open_issues": 673,
             "owner": "jupyter-book",
             "repo": "jupyter-book",
             "stars": 4287,
@@ -2441,7 +2441,7 @@
             "open_issues": 325,
             "owner": "jupyterlab",
             "repo": "jupyter-ai",
-            "stars": 4423,
+            "stars": 4425,
             "topics": [
               "acp",
               "agents",
@@ -2510,7 +2510,7 @@
             "open_issues": 127,
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1409,
+            "stars": 1408,
             "topics": [
               "analytics-automation",
               "data",
@@ -2696,7 +2696,7 @@
             "open_issues": 54,
             "owner": "QuantStack",
             "repo": "jupyterlab-drawio",
-            "stars": 623,
+            "stars": 624,
             "topics": [
               "jupyterlab-extension"
             ]
@@ -3549,8 +3549,8 @@
             "id": 877613792,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T14:24:45Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-23T22:18:12Z",
+            "open_issues": 22,
             "owner": "posit-dev",
             "repo": "pointblank",
             "stars": 496,
@@ -3980,7 +3980,7 @@
             "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24413,
+            "stars": 24415,
             "topics": [
               "demonstrate-skills",
               "practice",
@@ -4028,7 +4028,7 @@
             "open_issues": 205,
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9819,
+            "stars": 9820,
             "topics": [
               "css",
               "jupyter",
@@ -4056,7 +4056,7 @@
             "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3659,
+            "stars": 3660,
             "topics": []
           },
           "first_seen": "2026-08-28T16:53:17.334Z"
@@ -4163,7 +4163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:30:44.559Z",
+    "last_updated": "2026-10-24T09:03:43.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Jupyter projects, libraries and resources",
@@ -4171,11 +4171,11 @@
       "id": 101582879,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-23T02:02:40Z",
+      "last_commit": "2026-10-24T02:01:46Z",
       "open_issues": 10,
       "owner": "markusschanta",
       "repo": "awesome-jupyter",
-      "stars": 4682,
+      "stars": 4683,
       "topics": [
         "awesome",
         "awesome-list",
