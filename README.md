@@ -51,20 +51,20 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Runtimes/Frontends
 
-* [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,380 | 🐛 2,627 | 🌐 TypeScript | 📅 2026-10-29 - JupyterLab is the next generation user interface for Jupyter.
-* [Jupyter Notebook](https://github.com/jupyter/notebook) ⭐ 13,460 | 🐛 1,888 | 🌐 Jupyter Notebook | 📅 2026-10-29 - Main Jupyter notebook runtime.
-* [docker-stacks](https://github.com/jupyter/docker-stacks) ⭐ 8,472 | 🐛 15 | 🌐 Python | 📅 2026-10-26 - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
-* [JupyterHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,359 | 🐛 206 | 🌐 Python | 📅 2026-10-27 - Multi-user server for Jupyter.
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,381 | 🐛 2,611 | 🌐 TypeScript | 📅 2026-10-30 - JupyterLab is the next generation user interface for Jupyter.
+* [Jupyter Notebook](https://github.com/jupyter/notebook) ⭐ 13,461 | 🐛 1,889 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Main Jupyter notebook runtime.
+* [docker-stacks](https://github.com/jupyter/docker-stacks) ⭐ 8,473 | 🐛 15 | 🌐 Python | 📅 2026-10-26 - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
+* [JupyterHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,359 | 🐛 206 | 🌐 Python | 📅 2026-10-29 - Multi-user server for Jupyter.
 * [voila](https://github.com/voila-dashboards/voila) ⭐ 5,956 | 🐛 331 | 🌐 Python | 📅 2026-10-05 - Notebooks as interactive standalone web applications.
-* [Panel](https://github.com/holoviz/panel) ⭐ 5,807 | 🐛 881 | 🌐 Python | 📅 2026-10-29 - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
-* [JupyterLite](https://github.com/jupyterlite/jupyterlite) ⭐ 4,915 | 🐛 242 | 🌐 TypeScript | 📅 2026-10-29 - Jupyter distribution that runs entirely in the browser.
+* [Panel](https://github.com/holoviz/panel) ⭐ 5,807 | 🐛 883 | 🌐 Python | 📅 2026-10-29 - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
+* [JupyterLite](https://github.com/jupyterlite/jupyterlite) ⭐ 4,915 | 🐛 242 | 🌐 TypeScript | 📅 2026-10-30 - Jupyter distribution that runs entirely in the browser.
 * [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop) ⭐ 4,339 | 🐛 171 | 🌐 TypeScript | 📅 2026-10-27 - A desktop application for JupyterLab, based on Electron.
 * [Hydrogen](https://github.com/nteract/hydrogen) ⭐ 4,019 | 🐛 180 | 🌐 TypeScript | 📅 2026-07-19 - Run code inline in Atom using Jupyter kernels.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,551 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-26 - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
-* [kaggle/docker-python](https://github.com/kaggle/docker-python) ⭐ 2,743 | 🐛 35 | 🌐 Python | 📅 2026-10-22 - Kaggle Python Docker image that includes datasets and packages.
-* [Stencila](https://github.com/stencila/stencila) ⭐ 914 | 🐛 148 | 🌐 Rust | 📅 2026-10-28 - Native desktop notebook frontend.
+* [kaggle/docker-python](https://github.com/kaggle/docker-python) ⭐ 2,743 | 🐛 36 | 🌐 Python | 📅 2026-10-29 - Kaggle Python Docker image that includes datasets and packages.
+* [Stencila](https://github.com/stencila/stencila) ⭐ 914 | 🐛 148 | 🌐 Rust | 📅 2026-10-30 - Native desktop notebook frontend.
 * [JupyterWith](https://github.com/tweag/jupyterWith) ⭐ 746 | 🐛 56 | 🌐 Nix | 📅 2026-10-25 - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
-* [nteract](https://github.com/nteract/nteract) ⭐ 189 | 🐛 43 | 🌐 Rust | 📅 2026-10-29 - Native desktop notebook frontend. <!--lint disable double-link-->
+* [nteract](https://github.com/nteract/nteract) ⭐ 189 | 🐛 49 | 🌐 Rust | 📅 2026-10-30 - Native desktop notebook frontend. <!--lint disable double-link-->
 * [Beaker](http://beakerx.com/) - Development environment with seamless data transmission from one language to another.
 * [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) - Execute notebooks as experiments to capture and compare results over time.
 * [OpenFiles](https://openfiles.pansysoft.app/) - Desktop file workspace for editing/running local Jupyter notebooks and 350+ other file formats.
@@ -90,31 +90,31 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Visualization
 
 * [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,372 | 🐛 681 | 🌐 Python | 📅 2026-10-05 - Fast, extensible progress bar for loops and iterables.
-* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,780 | 🐛 6 | 🌐 Python | 📅 2026-10-26 - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) ⭐ 67,628 | 🐛 1,488 | 🌐 TypeScript | 📅 2026-10-13 visualization library.
-* [Perspective](https://github.com/finos/perspective) ⭐ 11,363 | 🐛 31 | 🌐 Rust | 📅 2026-10-27 - Data visualization and analytics component, especially for large/streaming datasets.
-* [Altair](https://github.com/altair-viz/altair) ⭐ 10,508 | 🐛 169 | 🌐 Python | 📅 2026-10-26 - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite) ⭐ 5,535 | 🐛 821 | 🌐 TypeScript | 📅 2026-10-28.
-* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 8,021 | 🐛 352 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Interactive reports to analyze machine learning models during validation or production monitoring.
+* [pyecharts](https://github.com/pyecharts/pyecharts) ⭐ 15,782 | 🐛 6 | 🌐 Python | 📅 2026-10-26 - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) ⭐ 67,637 | 🐛 1,488 | 🌐 TypeScript | 📅 2026-10-13 visualization library.
+* [Perspective](https://github.com/finos/perspective) ⭐ 11,366 | 🐛 31 | 🌐 Rust | 📅 2026-10-27 - Data visualization and analytics component, especially for large/streaming datasets.
+* [Altair](https://github.com/altair-viz/altair) ⭐ 10,509 | 🐛 169 | 🌐 Python | 📅 2026-10-26 - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite) ⭐ 5,537 | 🐛 822 | 🌐 TypeScript | 📅 2026-10-28.
+* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 8,024 | 🐛 352 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Interactive reports to analyze machine learning models during validation or production monitoring.
 * [lux](https://github.com/lux-org/lux) ⭐ 5,379 | 🐛 90 | 🌐 Python | 📅 2024-03-20 - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,693 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-27 - Grammar of Graphics-based interactive plotting framework for Jupyter.
 * [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) ⭐ 3,336 | 🐛 808 | 🌐 TypeScript | 📅 2026-08-19 - UI widgets for Jupyter.  <!--lint enable double-link-->
 * [ipyvolume](https://github.com/maartenbreddels/ipyvolume) ⭐ 1,968 | 🐛 213 | 🌐 TypeScript | 📅 2023-11-29 - 3D plotting for Python in Jupyter based on widgets and WebGL.
 * [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) ⭐ 1,543 | 🐛 300 | 🌐 TypeScript | 📅 2026-05-07 - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
-* [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) ⭐ 1,040 | 🐛 3 | 🌐 Python | 📅 2026-10-22 - WebGL 3D plotting: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays.
+* [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) ⭐ 1,040 | 🐛 4 | 🌐 Python | 📅 2026-10-30 - WebGL 3D plotting: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays.
 * [pythreejs](https://github.com/jovyan/pythreejs) ⭐ 991 | 🐛 76 | 🌐 JavaScript | 📅 2024-10-10 - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 * [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) ⭐ 969 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-02-26 - Animated data storytelling tool.
 * [torchvista](https://github.com/sachinhosmani/torchvista) ⭐ 768 | 🐛 11 | 🌐 Python | 📅 2026-09-05 - Interactive tool to visualize the forward pass of PyTorch models as a graph in notebooks.
 * [jupyter-gmaps](https://github.com/pbugnion/gmaps) ⭐ 764 | 🐛 80 | 🌐 Python | 📅 2026-04-13 - Interactive visualization library for Google Maps in Jupyter notebooks.
 * [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) ⭐ 624 | 🐛 127 | 🌐 Python | 📅 2026-03-10 - Interactive widgets to visualize images in 2D and 3D.
 * [tributary](https://github.com/timkpaine/tributary) ⭐ 467 | 🐛 10 | 🌐 Python | 📅 2026-06-23 - Python data streams with Jupyter support.
-* [ipycytoscape](https://github.com/cytoscape/ipycytoscape) ⭐ 291 | 🐛 74 | 🌐 Python | 📅 2026-10-05 - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
+* [ipycytoscape](https://github.com/cytoscape/ipycytoscape) ⭐ 291 | 🐛 75 | 🌐 Python | 📅 2026-10-05 - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
 * [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) ⭐ 253 | 🐛 44 | 🌐 JavaScript | 📅 2024-02-20 - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
-* [jupyter-manim](https://github.com/krassowski/jupyter-manim) ⭐ 198 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - Display [manim](https://github.com/3b1b/manim) ⭐ 95,824 | 🐛 513 | 🌐 Python | 📅 2026-09-09 (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+* [jupyter-manim](https://github.com/krassowski/jupyter-manim) ⭐ 198 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - Display [manim](https://github.com/3b1b/manim) ⭐ 95,890 | 🐛 513 | 🌐 Python | 📅 2026-09-09 (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
 * [xwidgets](https://github.com/QuantStack/xwidgets) ⭐ 147 | 🐛 21 | 🌐 C++ | 📅 2026-10-12 - C++ Backend for ipywidgets.
 * [ipychart](https://github.com/nicohlr/ipychart) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2024-08-24 - Interactive Chart.js plots in Jupyter.
 * [ipytree](https://github.com/QuantStack/ipytree/) ⭐ 133 | 🐛 32 | 🌐 CSS | 📅 2026-03-16 - Tree UI element for Jupyter.
 * [xleaflet](https://github.com/QuantStack/xleaflet) ⭐ 93 | 🐛 4 | 🌐 C++ | 📅 2026-03-06 - C++ Backend for ipyleaflet.
 * [ipydagred3](https://github.com/timkpaine/ipydagred3) ⭐ 86 | 🐛 5 | 🌐 Python | 📅 2026-10-15 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) ⭐ 3,336 | 🐛 808 | 🌐 TypeScript | 📅 2026-08-19 library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
-* [FlexViz](https://github.com/flex-analytics/flexviz) ⭐ 80 | 🐛 44 | 🌐 Python | 📅 2026-10-26 - Interactive cross-filter dashboards for datasets that are too large for the browser.
+* [FlexViz](https://github.com/flex-analytics/flexviz) ⭐ 81 | 🐛 44 | 🌐 Python | 📅 2026-10-26 - Interactive cross-filter dashboards for datasets that are too large for the browser.
 * [jp\_doodle](https://github.com/AaronWatters/jp_doodle) ⭐ 54 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-07-12 - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
 * [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) ⚠️ Archived - Prototype network visualization frontend for Jupyter notebooks.
 * [xwebrtc](https://github.com/QuantStack/xwebrtc) ⭐ 15 | 🐛 2 | 🌐 C++ | 📅 2021-09-19 - C++ Backend for ipywebrtc.
@@ -127,7 +127,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Tables
 
 * [Qgrid](https://github.com/quantopian/qgrid) ⭐ 3,078 | 🐛 181 | 🌐 Python | 📅 2024-01-12 - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter.
-* [ITables](https://github.com/mwouts/itables) ⭐ 980 | 🐛 45 | 🌐 Python | 📅 2026-10-16 - Pandas and Polars DataFrames rendered as interactive [datatables-net](https://datatables.net/) tables.
+* [ITables](https://github.com/mwouts/itables) ⭐ 980 | 🐛 46 | 🌐 Python | 📅 2026-10-30 - Pandas and Polars DataFrames rendered as interactive [datatables-net](https://datatables.net/) tables.
 * [buckaroo](https://github.com/buckaroo-data/buckaroo) ⭐ 684 | 🐛 240 | 🌐 Python | 📅 2026-10-26 - GUI Data Wrangling tool for Jupyter and pandas.
 * [ipydatagrid](https://github.com/bloomberg/ipydatagrid) ⭐ 644 | 🐛 85 | 🌐 TypeScript | 📅 2026-01-15 - Fast datagrid widget for Jupyter.
 * [ipysheet](https://github.com/QuantStack/ipysheet/) ⭐ 551 | 🐛 76 | 🌐 Python | 📅 2024-01-04 - Interactive spreadsheets in Jupyter.
@@ -136,11 +136,11 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Rendering/Publishing/Conversion
 
-* [Jupytext](https://github.com/mwouts/jupytext) ⭐ 7,276 | 🐛 163 | 🌐 Python | 📅 2026-10-27 - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
-* [Papermill](https://github.com/nteract/papermill) ⭐ 6,496 | 🐛 198 | 🌐 Python | 📅 2026-10-05 - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
+* [Jupytext](https://github.com/mwouts/jupytext) ⭐ 7,276 | 🐛 164 | 🌐 Python | 📅 2026-10-27 - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
+* [Papermill](https://github.com/nteract/papermill) ⭐ 6,498 | 🐛 198 | 🌐 Python | 📅 2026-10-05 - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 * [Voila](https://github.com/QuantStack/voila) ⭐ 5,956 | 🐛 331 | 🌐 Python | 📅 2026-10-05 - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
-* [nbdev](https://github.com/fastai/nbdev) ⭐ 5,322 | 🐛 187 | 🌐 Jupyter Notebook | 📅 2026-10-25 - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
-* [Mercury](https://github.com/mljar/mercury) ⭐ 4,359 | 🐛 4 | 🌐 Python | 📅 2026-10-26 - Convert notebooks into web applications.
+* [nbdev](https://github.com/fastai/nbdev) ⭐ 5,322 | 🐛 187 | 🌐 Jupyter Notebook | 📅 2026-10-29 - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+* [Mercury](https://github.com/mljar/mercury) ⭐ 4,358 | 🐛 4 | 🌐 Python | 📅 2026-10-26 - Convert notebooks into web applications.
 * [Jupyter Book](https://github.com/executablebooks/jupyter-book) ⭐ 4,289 | 🐛 675 | 🌐 TypeScript | 📅 2026-10-20 - Build publication-quality books and documents from computational material.
 * [RISE](https://github.com/damianavila/RISE) ⭐ 3,736 | 🐛 162 | 🌐 JavaScript | 📅 2023-10-29 - Reveal.js Jupyter/IPython Slideshow.
 * [Ploomber](https://github.com/ploomber/ploomber) ⚠️ Archived - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
@@ -165,8 +165,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Version Control
 
 * [nbdime](https://github.com/jupyter/nbdime) ⭐ 2,846 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-10 - Tools for diffing and merging of Jupyter notebooks.
-* [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) ⭐ 1,612 | 🐛 152 | 🌐 TypeScript | 📅 2026-10-28 - Extension for Git integration.
-* [nbQA](https://github.com/nbQA-dev/nbQA) ⭐ 1,208 | 🐛 23 | 🌐 Python | 📅 2026-10-19 - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
+* [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) ⭐ 1,613 | 🐛 152 | 🌐 TypeScript | 📅 2026-10-28 - Extension for Git integration.
+* [nbQA](https://github.com/nbQA-dev/nbQA) ⭐ 1,208 | 🐛 24 | 🌐 Python | 📅 2026-10-19 - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 * [databooks](https://github.com/datarootsio/databooks) ⭐ 117 | 🐛 6 | 🌐 Python | 📅 2026-10-26 - A command-line utility that eases versioning and sharing of notebooks.
 * [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) ⭐ 20 | 🐛 12 | 🌐 TypeScript | 📅 2023-05-29 - Dependency management and optimization in Jupyter Notebooks.
 * [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - Version, manage and share notebook checkpoints in your projects.
@@ -174,8 +174,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## JupyterLab Extensions
 
-* [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) ⭐ 4,430 | 🐛 322 | 🌐 Python | 📅 2026-10-29 - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
-* [elyra](https://github.com/elyra-ai/elyra) ⭐ 2,002 | 🐛 243 | 🌐 Python | 📅 2026-10-28 - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
+* [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) ⭐ 4,430 | 🐛 322 | 🌐 Python | 📅 2026-10-30 - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
+* [elyra](https://github.com/elyra-ai/elyra) ⭐ 2,002 | 🐛 244 | 🌐 Python | 📅 2026-10-28 - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
 * [amphi-etl](https://github.com/amphi-ai/amphi-etl) ⭐ 1,410 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-24 - Low-code ETL extension for Jupyterlab.
 * [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) ⭐ 1,164 | 🐛 68 | 🌐 TypeScript | 📅 2026-04-17 - Variable inspector extension that shows variables and their values.
 * [vim](https://github.com/jwkvam/jupyterlab-vim) ⭐ 980 | 🐛 70 | 🌐 TypeScript | 📅 2023-04-05 - Vim notebook cell bindings.
@@ -190,20 +190,20 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 * [sql](https://github.com/pbugnion/jupyterlab-sql) ⭐ 428 | 🐛 57 | 🌐 TypeScript | 📅 2023-01-05 - SQL GUI for JupyterLab.
 * [jupyterlab\_templates](https://github.com/jpmorganchase/jupyterlab_templates) ⭐ 413 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-01 - Notebook templates in JupyterLab.
 * [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) ⚠️ Archived - Extension for Google Drive integration.
-* [nb\_black](https://github.com/dnanhkhoa/nb_black) ⭐ 367 | 🐛 24 | 🌐 Python | 📅 2023-07-28 - Extension to keep Python code automatically formatted using [black](https://github.com/psf/black) ⭐ 42,084 | 🐛 260 | 🌐 Python | 📅 2026-10-28.
+* [nb\_black](https://github.com/dnanhkhoa/nb_black) ⭐ 367 | 🐛 24 | 🌐 Python | 📅 2023-07-28 - Extension to keep Python code automatically formatted using [black](https://github.com/psf/black) ⭐ 42,073 | 🐛 252 | 🌐 Python | 📅 2026-10-30.
 * [voyager](https://github.com/altair-viz/jupyterlab_voyager) ⭐ 304 | 🐛 63 | 🌐 TypeScript | 📅 2022-12-06 - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 * [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) ⭐ 264 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-15 - A sidecar output widget for JupyterLab.
-* [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) ⭐ 249 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-17 - A filesystem-like content manager for multiple backends in Jupyter.
+* [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) ⭐ 249 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-17 - A filesystem-like content manager for multiple backends in Jupyter.
 * [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) ⭐ 226 | 🐛 11 | 🌐 TypeScript | 📅 2021-08-23 - Extension for navigating to the definition of a variable or function in JupyterLab.
 * [theme-darcula](https://github.com/telamonian/theme-darcula) ⭐ 219 | 🐛 22 | 🌐 CSS | 📅 2023-06-06 - A handsome Darcula theme for Jupyterlab.
 * [lsp](https://github.com/krassowski/jupyterlab-lsp) ⭐ 132 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-27 - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
-* [jupyterlab\_miami\_nights](https://github.com/timkpaine/jupyterlab_miami_nights) ⭐ 131 | 🐛 0 | 🌐 CSS | 📅 2026-10-25 - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
+* [jupyterlab\_miami\_nights](https://github.com/timkpaine/jupyterlab_miami_nights) ⭐ 131 | 🐛 1 | 🌐 CSS | 📅 2026-10-30 - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 * [jupyterlab\_iframe](https://github.com/timkpaine/jupyterlab_iframe) ⭐ 118 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-28 - View HTML as an embedded iframe in JupyterLab.
 * [celltags](https://github.com/jupyterlab/jupyterlab-celltags) ⚠️ Archived - Extension to organise and execute notebooks using cell tags.
 * [jupyterlab-tensorboard-pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) ⭐ 93 | 🐛 9 | 🌐 TypeScript | 📅 2024-07-29 - TensorBoard support for JupyterLab.
 * [quickopen](https://github.com/parente/jupyterlab-quickopen) ⭐ 89 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-14 - Quickly open a file in JupyterLab by typing part of its name.
-* [jupyterlab\_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2026-10-18 - Automatically version notebooks in JupyterLab.
-* [jupyterlab\_commands](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-18 - Add arbitrary python commands to the JupyterLab command palette.
+* [jupyterlab\_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2026-10-30 - Automatically version notebooks in JupyterLab.
+* [jupyterlab\_commands](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-30 - Add arbitrary python commands to the JupyterLab command palette.
 * [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) ⭐ 62 | 🐛 22 | 🌐 TypeScript | 📅 2023-01-03 - Explore CPython Bytecode in JupyterLab.
 * [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) ⭐ 60 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2023-11-15 - Customizable notebook cell completion browser notifications for JupyterLab.
 * [jupyterlab\_email](https://github.com/timkpaine/jupyterlab_email) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2026-10-28 - Email notebooks and their content from within JupyterLab.
@@ -220,7 +220,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Testing
 
-* [pointblank](https://github.com/posit-dev/pointblank) ⭐ 497 | 🐛 16 | 🌐 Python | 📅 2026-10-29 - Notebook-friendly testing of DataFrames and database tables for data quality purposes.
+* [pointblank](https://github.com/posit-dev/pointblank) ⭐ 497 | 🐛 16 | 🌐 Python | 📅 2026-10-30 - Notebook-friendly testing of DataFrames and database tables for data quality purposes.
 * [nbval](https://github.com/computationalmodelling/nbval) ⭐ 452 | 🐛 55 | 🌐 Python | 📅 2025-09-17 - Py.test plugin for validating Jupyter notebooks.
 * [ipytest](https://github.com/chmp/ipytest) ⭐ 337 | 🐛 4 | 🌐 Python | 📅 2025-02-16 - Test runner for running unit tests from within a notebook.
 * [treon](https://github.com/ReviewNB/treon) ⭐ 312 | 🐛 5 | 🌐 Python | 📅 2022-08-04 - Easy-to-use test framework for Jupyter Notebooks.
@@ -290,11 +290,11 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Articles/Guides/Tutorials
 
-* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,414 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-28 - List of Jupyter Notebooks by Peter Norvig.
+* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,415 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-28 - List of Jupyter Notebooks by Peter Norvig.
 * [List of Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,352 | 🐛 47 | 🌐 Python | 📅 2026-07-09
 * [Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes) ⭐ 9,819 | 🐛 205 | 🌐 CSS | 📅 2025-06-22
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,661 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02
-* [List of Jupyter notebooks II](https://github.com/jupyter-naas/awesome-notebooks) ⭐ 3,015 | 🐛 116 | 🌐 Jupyter Notebook | 📅 2024-10-21
+* [List of Jupyter notebooks II](https://github.com/jupyter-naas/awesome-notebooks) ⭐ 3,016 | 🐛 116 | 🌐 Jupyter Notebook | 📅 2024-10-21
 * [Interactive Web Plotting with Bokeh](https://github.com/bokeh/bokeh-notebooks) ⚠️ Archived
 * [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) ⭐ 530 | 🐛 1 | 📅 2022-11-06 - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 * [JupyterLab - Your Personal Data Science Workbench](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-12-21 - Talk about JupyterLab at Full Stack Quants London.
@@ -314,4 +314,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
